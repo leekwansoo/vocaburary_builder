@@ -5,7 +5,7 @@ streamlit
 pyttsx3
 
 # Windows TTS Support
-pywin32>=306  # Required for Windows SAPI voices
+# pywin32>=306  # Required for Windows SAPI voices
 
 # Alternative TTS engines (fallback options)
 gtts>=2.3.0  # Google Text-to-Speech (requires internet)
