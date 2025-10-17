@@ -4,3 +4,11 @@ streamlit
 # Text-to-Speech Engine
 pyttsx3
 
+# Windows TTS Support
+pywin32  # Required for Windows SAPI voices
+
+# Alternative TTS engines (fallback options)
+gtts  # Google Text-to-Speech (requires internet)
+pygame  # For audio playback
+
+
