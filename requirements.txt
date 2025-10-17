@@ -1,29 +1,6 @@
 # Core Framework
-streamlit>=1.28.0
+streamlit
 
 # Text-to-Speech Engine
-pyttsx3>=2.90
+pyttsx3
 
-# Optional: Enhanced TTS voices (Windows)
-# pywin32>=306  # Uncomment for Windows users who want additional voice options
-
-# Standard Library Dependencies (included with Python)
-# The following are standard library modules and don't need to be installed:
-# - json (for word pools data)
-# - os (for file operations)
-# - tempfile (for temporary audio files)
-# - datetime (for date/time features)
-# - random (for quiz generation)
-# - subprocess (for launcher functionality)
-# - sys (for system operations)
-# - io (for input/output operations)
-
-# Development and Testing (optional)
-# pytest>=7.0.0  # Uncomment for testing
-# black>=22.0.0   # Uncomment for code formatting
-
-# Notes:
-# 1. pyttsx3 works cross-platform (Windows, macOS, Linux)
-# 2. On Linux, you may need to install espeak: sudo apt-get install espeak
-# 3. On macOS, speech synthesis is built-in
-# 4. On Windows, SAPI5 voices are used automatically
