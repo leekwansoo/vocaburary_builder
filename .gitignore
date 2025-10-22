@@ -2,5 +2,5 @@
 .env
 __pycache__/
 *.pyc
-master_word.pdf
+*.pdf
 test_*.py
