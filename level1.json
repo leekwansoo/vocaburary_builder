@@ -179,6 +179,96 @@
         "This is successful.",
         "I like successful."
       ]
+    },
+    {
+      "word": "Happy",
+      "meaning": "Feeling joy and pleasure",
+      "phrase": "Children are happy when they play with friends.",
+      "expressions": [
+        "I am happy today.",
+        "Happy people smile often."
+      ]
+    },
+    {
+      "word": "Smart",
+      "meaning": "Having intelligence and good judgment",
+      "phrase": "Smart students ask questions to learn more.",
+      "expressions": [
+        "She is very smart.",
+        "Smart people study hard."
+      ]
+    },
+    {
+      "word": "Strong",
+      "meaning": "Having physical power",
+      "phrase": "Exercise makes your muscles strong and healthy.",
+      "expressions": [
+        "He is strong.",
+        "Strong people help others."
+      ]
+    },
+    {
+      "word": "Kind",
+      "meaning": "Having a good and caring nature",
+      "phrase": "Kind people help others without expecting rewards.",
+      "expressions": [
+        "Be kind to animals.",
+        "Kind words make difference."
+      ]
+    },
+    {
+      "word": "Brave",
+      "meaning": "Not afraid in dangerous situations",
+      "phrase": "The brave firefighter saved the family from fire.",
+      "expressions": [
+        "Be brave.",
+        "Brave people face fears."
+      ]
+    },
+    {
+      "word": "Polite",
+      "meaning": "Having good manners",
+      "phrase": "Polite children say please and thank you.",
+      "expressions": [
+        "Always be polite.",
+        "Polite behavior is good."
+      ]
+    },
+    {
+      "word": "Funny",
+      "meaning": "Causing laughter",
+      "phrase": "The funny movie made everyone in theater laugh.",
+      "expressions": [
+        "That's really funny.",
+        "Funny stories entertain us."
+      ]
+    },
+    {
+      "word": "Quick",
+      "meaning": "Moving or happening fast",
+      "phrase": "The quick rabbit ran away from the dog.",
+      "expressions": [
+        "Be quick.",
+        "Quick thinking helps."
+      ]
+    },
+    {
+      "word": "Quiet",
+      "meaning": "Making little or no noise",
+      "phrase": "Please be quiet during the library study time.",
+      "expressions": [
+        "Stay quiet.",
+        "Quiet places help concentration."
+      ]
+    },
+    {
+      "word": "Fair",
+      "meaning": "Treating everyone equally",
+      "phrase": "The fair teacher gives everyone equal chances.",
+      "expressions": [
+        "Be fair to everyone.",
+        "Fair rules apply equally."
+      ]
     }
   ],
   "science": [
@@ -360,6 +450,96 @@
       "expressions": [
         "We did an experiment.",
         "The experiment was fun."
+      ]
+    },
+    {
+      "word": "Discovery",
+      "meaning": "Finding something new",
+      "phrase": "The discovery of electricity changed the world.",
+      "expressions": [
+        "What a great discovery!",
+        "Scientists make discoveries."
+      ]
+    },
+    {
+      "word": "Invention",
+      "meaning": "Something created for first time",
+      "phrase": "The invention of the wheel helped transportation.",
+      "expressions": [
+        "That's a useful invention.",
+        "Inventions make life easier."
+      ]
+    },
+    {
+      "word": "Solar",
+      "meaning": "Related to the sun",
+      "phrase": "Solar panels use sunlight to create electricity.",
+      "expressions": [
+        "Solar energy is clean.",
+        "Use solar power."
+      ]
+    },
+    {
+      "word": "Cell",
+      "meaning": "Smallest unit of living things",
+      "phrase": "All plants and animals are made of cells.",
+      "expressions": [
+        "Cells are very small.",
+        "Every cell has function."
+      ]
+    },
+    {
+      "word": "Bone",
+      "meaning": "Hard parts inside body",
+      "phrase": "Strong bones support your body weight.",
+      "expressions": [
+        "Exercise strengthens bones.",
+        "Bones protect organs."
+      ]
+    },
+    {
+      "word": "Blood",
+      "meaning": "Red liquid that flows in body",
+      "phrase": "Blood carries oxygen to all body parts.",
+      "expressions": [
+        "Blood is important.",
+        "Heart pumps blood."
+      ]
+    },
+    {
+      "word": "Brain",
+      "meaning": "Organ that controls thinking",
+      "phrase": "The brain controls all body functions.",
+      "expressions": [
+        "Use your brain.",
+        "Brain controls everything."
+      ]
+    },
+    {
+      "word": "Gravity",
+      "meaning": "Force that pulls things down",
+      "phrase": "Gravity makes things fall to the ground.",
+      "expressions": [
+        "Gravity pulls everything down.",
+        "Gravity keeps us grounded."
+      ]
+    },
+    {
+      "word": "Electricity",
+      "meaning": "Power that makes lights work",
+      "phrase": "Electricity powers our computers and phones.",
+      "expressions": [
+        "Electricity is useful.",
+        "Save electricity."
+      ]
+    },
+    {
+      "word": "Chemical",
+      "meaning": "Substance used in science",
+      "phrase": "Water is a chemical made of hydrogen and oxygen.",
+      "expressions": [
+        "Chemicals can be dangerous.",
+        "Handle chemicals carefully."
       ]
     }
   ],
@@ -543,6 +723,96 @@
         "Success takes time.",
         "Celebrate your success."
       ]
+    },
+    {
+      "word": "Goal",
+      "meaning": "Something you want to achieve",
+      "phrase": "Set a goal and work hard to reach it.",
+      "expressions": [
+        "Reach your goal.",
+        "Goals give direction."
+      ]
+    },
+    {
+      "word": "Plan",
+      "meaning": "Idea about what to do",
+      "phrase": "Make a plan before starting any project.",
+      "expressions": [
+        "Follow the plan.",
+        "Good plans succeed."
+      ]
+    },
+    {
+      "word": "Team",
+      "meaning": "Group working together",
+      "phrase": "Our team works together to finish projects.",
+      "expressions": [
+        "Join the team.",
+        "Teamwork makes success."
+      ]
+    },
+    {
+      "word": "Idea",
+      "meaning": "Thought about something new",
+      "phrase": "She had a great idea for the school project.",
+      "expressions": [
+        "That's a good idea.",
+        "Ideas create solutions."
+      ]
+    },
+    {
+      "word": "Store",
+      "meaning": "Place where things are sold",
+      "phrase": "The grocery store sells fresh food daily.",
+      "expressions": [
+        "Go to the store.",
+        "The store is open."
+      ]
+    },
+    {
+      "word": "Sell",
+      "meaning": "Give something for money",
+      "phrase": "They sell books at the school bookstore.",
+      "expressions": [
+        "Sell your old toys.",
+        "Stores sell products."
+      ]
+    },
+    {
+      "word": "Buy",
+      "meaning": "Get something by paying money",
+      "phrase": "We buy groceries every Saturday morning.",
+      "expressions": [
+        "Buy what you need.",
+        "Don't buy unnecessary things."
+      ]
+    },
+    {
+      "word": "Save",
+      "meaning": "Keep money for future use",
+      "phrase": "Save some money each week for emergencies.",
+      "expressions": [
+        "Save your money.",
+        "Saving is important."
+      ]
+    },
+    {
+      "word": "Spend",
+      "meaning": "Use money to buy things",
+      "phrase": "Don't spend all your money on games.",
+      "expressions": [
+        "Spend money wisely.",
+        "Think before you spend."
+      ]
+    },
+    {
+      "word": "Earn",
+      "meaning": "Get money by working",
+      "phrase": "Students can earn money by helping neighbors.",
+      "expressions": [
+        "Earn your money.",
+        "Work hard to earn."
+      ]
     }
   ],
   "literature": [
@@ -724,6 +994,96 @@
       "expressions": [
         "This chapter is interesting.",
         "Start the next chapter."
+      ]
+    },
+    {
+      "word": "Library",
+      "meaning": "Place with many books to read",
+      "phrase": "The library is quiet place for reading and study.",
+      "expressions": [
+        "Go to the library.",
+        "The library has books."
+      ]
+    },
+    {
+      "word": "Fairy tale",
+      "meaning": "Magical story for children",
+      "phrase": "Cinderella is a famous fairy tale loved by children.",
+      "expressions": [
+        "Read fairy tales.",
+        "Fairy tales teach lessons."
+      ]
+    },
+    {
+      "word": "Lesson",
+      "meaning": "Something to be learned",
+      "phrase": "Every story teaches us an important lesson.",
+      "expressions": [
+        "Learn the lesson.",
+        "Lessons help us grow."
+      ]
+    },
+    {
+      "word": "Information",
+      "meaning": "Facts about something",
+      "phrase": "Books contain lots of useful information.",
+      "expressions": [
+        "Find good information.",
+        "Information helps learning."
+      ]
+    },
+    {
+      "word": "Knowledge",
+      "meaning": "Things you know and understand",
+      "phrase": "Reading books increases your knowledge about world.",
+      "expressions": [
+        "Gain more knowledge.",
+        "Knowledge is power."
+      ]
+    },
+    {
+      "word": "Imagination",
+      "meaning": "Ability to create pictures in mind",
+      "phrase": "Use your imagination to create wonderful stories.",
+      "expressions": [
+        "Use your imagination.",
+        "Imagination creates magic."
+      ]
+    },
+    {
+      "word": "Favorite",
+      "meaning": "Thing you like most",
+      "phrase": "What is your favorite book to read?",
+      "expressions": [
+        "That's my favorite.",
+        "Everyone has favorites."
+      ]
+    },
+    {
+      "word": "Magazine",
+      "meaning": "Book with pictures and short articles",
+      "phrase": "The magazine has interesting articles and photos.",
+      "expressions": [
+        "Read the magazine.",
+        "Magazines are colorful."
+      ]
+    },
+    {
+      "word": "Newspaper",
+      "meaning": "Daily paper with news",
+      "phrase": "The newspaper tells us what happens daily.",
+      "expressions": [
+        "Read the newspaper.",
+        "Newspapers give news."
+      ]
+    },
+    {
+      "word": "Dictionary",
+      "meaning": "Book explaining word meanings",
+      "phrase": "Use dictionary to find meanings of new words.",
+      "expressions": [
+        "Check the dictionary.",
+        "Dictionary explains words."
       ]
     }
   ],
@@ -907,6 +1267,96 @@
         "Use a map.",
         "The map shows directions."
       ]
+    },
+    {
+      "word": "Train",
+      "meaning": "Long vehicle that travels on tracks",
+      "phrase": "The train carries many people to different cities.",
+      "expressions": [
+        "Take the train.",
+        "Trains are fast."
+      ]
+    },
+    {
+      "word": "Bus",
+      "meaning": "Large vehicle for many passengers",
+      "phrase": "The school bus takes children to school safely.",
+      "expressions": [
+        "Catch the bus.",
+        "The bus is coming."
+      ]
+    },
+    {
+      "word": "Car",
+      "meaning": "Vehicle for small group of people",
+      "phrase": "Our family car takes us on weekend trips.",
+      "expressions": [
+        "Drive the car.",
+        "Cars need gas."
+      ]
+    },
+    {
+      "word": "Plane",
+      "meaning": "Flying vehicle for long distances",
+      "phrase": "The plane flies high above the clouds.",
+      "expressions": [
+        "Fly in plane.",
+        "Planes travel fast."
+      ]
+    },
+    {
+      "word": "Road",
+      "meaning": "Path for cars to drive on",
+      "phrase": "The road leads to the beautiful mountain lake.",
+      "expressions": [
+        "Take this road.",
+        "The road is long."
+      ]
+    },
+    {
+      "word": "Bridge",
+      "meaning": "Structure built over water or valley",
+      "phrase": "The bridge connects two sides of the river.",
+      "expressions": [
+        "Cross the bridge.",
+        "The bridge is strong."
+      ]
+    },
+    {
+      "word": "Station",
+      "meaning": "Place where trains or buses stop",
+      "phrase": "Wait at the station for the next train.",
+      "expressions": [
+        "Go to the station.",
+        "The station is busy."
+      ]
+    },
+    {
+      "word": "Distance",
+      "meaning": "Space between two places",
+      "phrase": "The distance between home and school is short.",
+      "expressions": [
+        "What's the distance?",
+        "Long distance takes time."
+      ]
+    },
+    {
+      "word": "Direction",
+      "meaning": "Way to go to reach place",
+      "phrase": "Ask for directions if you get lost.",
+      "expressions": [
+        "Show me directions.",
+        "Follow the directions."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "meaning": "Exciting experience",
+      "phrase": "Camping in forest was a great adventure.",
+      "expressions": [
+        "What an adventure!",
+        "Adventures are exciting."
+      ]
     }
   ],
   "history": [
@@ -1088,6 +1538,96 @@
       "expressions": [
         "The monument is impressive.",
         "Visit the war monument."
+      ]
+    },
+    {
+      "word": "Hero",
+      "meaning": "Person who does brave things",
+      "phrase": "The hero saved many people during the flood.",
+      "expressions": [
+        "He's a real hero.",
+        "Heroes help others."
+      ]
+    },
+    {
+      "word": "Leader",
+      "meaning": "Person who guides others",
+      "phrase": "A good leader helps people make right decisions.",
+      "expressions": [
+        "She's our leader.",
+        "Leaders guide people."
+      ]
+    },
+    {
+      "word": "Soldier",
+      "meaning": "Person who fights for country",
+      "phrase": "Brave soldiers protect our country from enemies.",
+      "expressions": [
+        "The soldier is brave.",
+        "Soldiers serve country."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "meaning": "Ability to do what you want",
+      "phrase": "Freedom means you can choose your own path.",
+      "expressions": [
+        "Freedom is precious.",
+        "We have freedom."
+      ]
+    },
+    {
+      "word": "Victory",
+      "meaning": "Winning in battle or competition",
+      "phrase": "The team celebrated their victory in the game.",
+      "expressions": [
+        "Victory feels good.",
+        "They won victory."
+      ]
+    },
+    {
+      "word": "Change",
+      "meaning": "Making something different",
+      "phrase": "People can change the world with good ideas.",
+      "expressions": [
+        "Change is good.",
+        "Things always change."
+      ]
+    },
+    {
+      "word": "Future",
+      "meaning": "Time that will come later",
+      "phrase": "Students study hard to build better future.",
+      "expressions": [
+        "The future is bright.",
+        "Plan for future."
+      ]
+    },
+    {
+      "word": "Memory",
+      "meaning": "Remembering things from past",
+      "phrase": "We keep memory of important events alive.",
+      "expressions": [
+        "That's good memory.",
+        "Memory helps learning."
+      ]
+    },
+    {
+      "word": "Story",
+      "meaning": "Account of past events",
+      "phrase": "Grandparents tell stories about old times.",
+      "expressions": [
+        "Tell me story.",
+        "Stories teach lessons."
+      ]
+    },
+    {
+      "word": "Legend",
+      "meaning": "Old story passed down",
+      "phrase": "The legend tells about brave knight's adventures.",
+      "expressions": [
+        "That's ancient legend.",
+        "Legends inspire people."
       ]
     }
   ],
@@ -1271,6 +1811,96 @@
         "Travel south.",
         "South is warmer."
       ]
+    },
+    {
+      "word": "East",
+      "meaning": "Direction where sun rises",
+      "phrase": "The sun rises in the east every morning.",
+      "expressions": [
+        "Go east.",
+        "East is sunrise direction."
+      ]
+    },
+    {
+      "word": "West",
+      "meaning": "Direction where sun sets",
+      "phrase": "The sun sets in the west every evening.",
+      "expressions": [
+        "Head west.",
+        "West is sunset direction."
+      ]
+    },
+    {
+      "word": "World",
+      "meaning": "All the countries and people on Earth",
+      "phrase": "People from around world speak different languages.",
+      "expressions": [
+        "The world is big.",
+        "Explore the world."
+      ]
+    },
+    {
+      "word": "Map",
+      "meaning": "Picture showing countries and places",
+      "phrase": "Look at the map to find your country.",
+      "expressions": [
+        "Use the map.",
+        "Maps show locations."
+      ]
+    },
+    {
+      "word": "Weather",
+      "meaning": "Rain, sun, wind, and temperature outside",
+      "phrase": "Today's weather is perfect for outdoor games.",
+      "expressions": [
+        "Weather is nice.",
+        "Check the weather."
+      ]
+    },
+    {
+      "word": "Season",
+      "meaning": "Time of year like summer or winter",
+      "phrase": "Spring is the season when flowers bloom.",
+      "expressions": [
+        "What season is it?",
+        "Each season is different."
+      ]
+    },
+    {
+      "word": "Hot",
+      "meaning": "Having high temperature",
+      "phrase": "Desert places are very hot during the day.",
+      "expressions": [
+        "It's hot today.",
+        "Hot weather needs water."
+      ]
+    },
+    {
+      "word": "Cold",
+      "meaning": "Having low temperature",
+      "phrase": "Mountain tops are cold even in summer.",
+      "expressions": [
+        "It's cold outside.",
+        "Cold weather needs coats."
+      ]
+    },
+    {
+      "word": "Rain",
+      "meaning": "Water falling from clouds",
+      "phrase": "Plants need rain to grow big and strong.",
+      "expressions": [
+        "It's going to rain.",
+        "Rain helps plants."
+      ]
+    },
+    {
+      "word": "Sun",
+      "meaning": "Bright star that gives light and heat",
+      "phrase": "The sun gives us light during the day.",
+      "expressions": [
+        "The sun is bright.",
+        "Sun makes plants grow."
+      ]
     }
   ],
   "health": [
@@ -1452,6 +2082,96 @@
       "expressions": [
         "Wellness is a goal.",
         "Focus on total wellness."
+      ]
+    },
+    {
+      "word": "Strong",
+      "meaning": "Having power and energy",
+      "phrase": "Eating good food makes your body strong.",
+      "expressions": [
+        "Stay strong.",
+        "Strong bodies last longer."
+      ]
+    },
+    {
+      "word": "Weak",
+      "meaning": "Not having much strength",
+      "phrase": "You feel weak when you don't eat enough.",
+      "expressions": [
+        "Don't feel weak.",
+        "Weak people need help."
+      ]
+    },
+    {
+      "word": "Tired",
+      "meaning": "Needing rest or sleep",
+      "phrase": "Children feel tired after playing all day.",
+      "expressions": [
+        "I'm tired now.",
+        "Tired people need rest."
+      ]
+    },
+    {
+      "word": "Energy",
+      "meaning": "Power to be active",
+      "phrase": "Good breakfast gives you energy for whole day.",
+      "expressions": [
+        "I have energy.",
+        "Energy helps activity."
+      ]
+    },
+    {
+      "word": "Rest",
+      "meaning": "Stop activity to relax",
+      "phrase": "Take rest when you feel tired from work.",
+      "expressions": [
+        "Get some rest.",
+        "Rest helps recovery."
+      ]
+    },
+    {
+      "word": "Clean",
+      "meaning": "Free from dirt",
+      "phrase": "Keep your hands clean to avoid getting sick.",
+      "expressions": [
+        "Stay clean.",
+        "Clean things are healthy."
+      ]
+    },
+    {
+      "word": "Wash",
+      "meaning": "Clean with water",
+      "phrase": "Wash your hands before eating food.",
+      "expressions": [
+        "Wash your hands.",
+        "Washing prevents germs."
+      ]
+    },
+    {
+      "word": "Hurt",
+      "meaning": "Feel pain",
+      "phrase": "Your knee will hurt if you fall down.",
+      "expressions": [
+        "That might hurt.",
+        "Don't hurt yourself."
+      ]
+    },
+    {
+      "word": "Safe",
+      "meaning": "Protected from danger",
+      "phrase": "Wear helmet to keep your head safe.",
+      "expressions": [
+        "Stay safe.",
+        "Safe places protect us."
+      ]
+    },
+    {
+      "word": "Danger",
+      "meaning": "Possibility of harm",
+      "phrase": "Fire is danger, so stay away from it.",
+      "expressions": [
+        "Avoid danger.",
+        "Danger can hurt people."
       ]
     }
   ]

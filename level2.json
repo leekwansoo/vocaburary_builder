@@ -179,6 +179,96 @@
         "That's quite charismatic.",
         "This seems charismatic."
       ]
+    },
+    {
+      "word": "Ambitious",
+      "meaning": "Having strong desire for success",
+      "phrase": "The ambitious student studied hard to achieve her goals.",
+      "expressions": [
+        "She's very ambitious.",
+        "Ambitious people succeed."
+      ]
+    },
+    {
+      "word": "Efficient",
+      "meaning": "Working in organized way without waste",
+      "phrase": "The efficient system reduced processing time significantly.",
+      "expressions": [
+        "That's quite efficient.",
+        "Work more efficiently."
+      ]
+    },
+    {
+      "word": "Genuine",
+      "meaning": "Real and sincere",
+      "phrase": "Her genuine concern for others impressed everyone.",
+      "expressions": [
+        "That's genuine care.",
+        "Be genuine always."
+      ]
+    },
+    {
+      "word": "Optimistic",
+      "meaning": "Having positive outlook on life",
+      "phrase": "Despite setbacks, she remained optimistic about the future.",
+      "expressions": [
+        "Stay optimistic.",
+        "She's naturally optimistic."
+      ]
+    },
+    {
+      "word": "Persistent",
+      "meaning": "Continuing despite difficulties",
+      "phrase": "His persistent effort finally paid off with success.",
+      "expressions": [
+        "Be persistent.",
+        "Persistent effort wins."
+      ]
+    },
+    {
+      "word": "Flexible",
+      "meaning": "Able to adapt to change",
+      "phrase": "Flexible workers adapt easily to new situations.",
+      "expressions": [
+        "Stay flexible.",
+        "Flexible thinking helps."
+      ]
+    },
+    {
+      "word": "Reliable",
+      "meaning": "Consistently dependable",
+      "phrase": "She's a reliable friend who always keeps her promises.",
+      "expressions": [
+        "He's very reliable.",
+        "Reliable people are valued."
+      ]
+    },
+    {
+      "word": "Decisive",
+      "meaning": "Able to make decisions quickly",
+      "phrase": "The decisive manager solved problems without delay.",
+      "expressions": [
+        "Be more decisive.",
+        "Decisive action is needed."
+      ]
+    },
+    {
+      "word": "Thoughtful",
+      "meaning": "Showing consideration for others",
+      "phrase": "Her thoughtful gestures made everyone feel appreciated.",
+      "expressions": [
+        "That's thoughtful of you.",
+        "Thoughtful people care."
+      ]
+    },
+    {
+      "word": "Determined",
+      "meaning": "Having firm purpose and resolve",
+      "phrase": "The determined athlete trained every day despite challenges.",
+      "expressions": [
+        "Stay determined.",
+        "Determined people achieve goals."
+      ]
     }
   ],
   "science": [
@@ -360,6 +450,96 @@
       "expressions": [
         "That's quite innovation.",
         "This seems innovation."
+      ]
+    },
+    {
+      "word": "Technology",
+      "meaning": "Application of scientific knowledge",
+      "phrase": "Modern technology has transformed how we communicate.",
+      "expressions": [
+        "Technology advances rapidly.",
+        "Use technology wisely."
+      ]
+    },
+    {
+      "word": "Research",
+      "meaning": "Systematic investigation to discover facts",
+      "phrase": "Medical research leads to new treatments for diseases.",
+      "expressions": [
+        "Research requires patience.",
+        "Conduct thorough research."
+      ]
+    },
+    {
+      "word": "Data",
+      "meaning": "Facts and statistics collected for analysis",
+      "phrase": "Scientists analyze data to support their conclusions.",
+      "expressions": [
+        "Collect accurate data.",
+        "Data supports conclusions."
+      ]
+    },
+    {
+      "word": "Theory",
+      "meaning": "Explanation based on observation and reasoning",
+      "phrase": "Einstein's theory revolutionized our understanding of physics.",
+      "expressions": [
+        "Test the theory.",
+        "Theory explains observations."
+      ]
+    },
+    {
+      "word": "Discovery",
+      "meaning": "Finding something previously unknown",
+      "phrase": "The discovery of DNA structure changed biology forever.",
+      "expressions": [
+        "What a great discovery!",
+        "Discovery leads to progress."
+      ]
+    },
+    {
+      "word": "Analysis",
+      "meaning": "Detailed examination of components",
+      "phrase": "Chemical analysis revealed the compound's composition.",
+      "expressions": [
+        "Conduct careful analysis.",
+        "Analysis provides insight."
+      ]
+    },
+    {
+      "word": "Formula",
+      "meaning": "Mathematical relationship or chemical composition",
+      "phrase": "The formula for water is H2O.",
+      "expressions": [
+        "Apply the formula.",
+        "The formula is correct."
+      ]
+    },
+    {
+      "word": "Procedure",
+      "meaning": "Series of steps to accomplish task",
+      "phrase": "Follow the safety procedure when handling chemicals.",
+      "expressions": [
+        "Follow proper procedure.",
+        "The procedure is important."
+      ]
+    },
+    {
+      "word": "Variable",
+      "meaning": "Factor that can change in experiment",
+      "phrase": "Control all variables except the one being tested.",
+      "expressions": [
+        "Identify the variable.",
+        "Variables affect results."
+      ]
+    },
+    {
+      "word": "Observation",
+      "meaning": "Act of watching and noting phenomena",
+      "phrase": "Careful observation is the foundation of scientific method.",
+      "expressions": [
+        "Make careful observations.",
+        "Observation leads to discovery."
       ]
     }
   ],
@@ -543,6 +723,96 @@
         "The subsidiary is profitable.",
         "Open a new subsidiary."
       ]
+    },
+    {
+      "word": "Marketing",
+      "meaning": "Activities to promote and sell products",
+      "phrase": "Digital marketing reaches customers through social media.",
+      "expressions": [
+        "Marketing drives sales.",
+        "Effective marketing works."
+      ]
+    },
+    {
+      "word": "Finance",
+      "meaning": "Management of money and investments",
+      "phrase": "The finance department handles all company budgets.",
+      "expressions": [
+        "Finance manages money.",
+        "Study corporate finance."
+      ]
+    },
+    {
+      "word": "Economics",
+      "meaning": "Study of production and distribution of wealth",
+      "phrase": "Economics explains how markets function.",
+      "expressions": [
+        "Economics affects everyone.",
+        "Study basic economics."
+      ]
+    },
+    {
+      "word": "Consumer",
+      "meaning": "Person who purchases goods or services",
+      "phrase": "Consumer preferences influence product development.",
+      "expressions": [
+        "The consumer decides.",
+        "Consumer needs matter."
+      ]
+    },
+    {
+      "word": "Quality",
+      "meaning": "Standard of excellence",
+      "phrase": "Quality control ensures products meet standards.",
+      "expressions": [
+        "Quality over quantity.",
+        "Maintain high quality."
+      ]
+    },
+    {
+      "word": "Efficiency",
+      "meaning": "Achieving maximum output with minimum input",
+      "phrase": "Improved efficiency reduced production costs significantly.",
+      "expressions": [
+        "Increase efficiency.",
+        "Efficiency saves money."
+      ]
+    },
+    {
+      "word": "Target",
+      "meaning": "Specific goal or objective",
+      "phrase": "The sales team exceeded their monthly target.",
+      "expressions": [
+        "Hit the target.",
+        "Set realistic targets."
+      ]
+    },
+    {
+      "word": "Brand",
+      "meaning": "Name and image of product or company",
+      "phrase": "Strong brand recognition increases customer loyalty.",
+      "expressions": [
+        "Build your brand.",
+        "Brand matters to consumers."
+      ]
+    },
+    {
+      "word": "Supply",
+      "meaning": "Quantity available for use",
+      "phrase": "The supply chain ensures products reach customers.",
+      "expressions": [
+        "Supply meets demand.",
+        "Manage supply carefully."
+      ]
+    },
+    {
+      "word": "Demand",
+      "meaning": "Desire for particular product or service",
+      "phrase": "High demand for the product exceeded expectations.",
+      "expressions": [
+        "Demand is increasing.",
+        "Create product demand."
+      ]
     }
   ],
   "literature": [
@@ -724,6 +994,96 @@
       "expressions": [
         "That's quite critique.",
         "This seems critique."
+      ]
+    },
+    {
+      "word": "Theme",
+      "meaning": "Central topic or message in work",
+      "phrase": "The novel's main theme explores love and sacrifice.",
+      "expressions": [
+        "Identify the theme.",
+        "The theme is universal."
+      ]
+    },
+    {
+      "word": "Plot",
+      "meaning": "Main story or sequence of events",
+      "phrase": "The plot twists kept readers engaged throughout.",
+      "expressions": [
+        "The plot thickens.",
+        "Follow the plot carefully."
+      ]
+    },
+    {
+      "word": "Setting",
+      "meaning": "Time and place where story occurs",
+      "phrase": "The story's setting in Victorian England adds atmosphere.",
+      "expressions": [
+        "The setting is important.",
+        "Describe the setting."
+      ]
+    },
+    {
+      "word": "Conflict",
+      "meaning": "Problem or struggle in story",
+      "phrase": "The internal conflict drove the character's development.",
+      "expressions": [
+        "Conflict creates tension.",
+        "Resolve the conflict."
+      ]
+    },
+    {
+      "word": "Style",
+      "meaning": "Distinctive way of writing",
+      "phrase": "Shakespeare's writing style is recognized worldwide.",
+      "expressions": [
+        "Develop your style.",
+        "Style makes writing unique."
+      ]
+    },
+    {
+      "word": "Dialogue",
+      "meaning": "Conversation between characters",
+      "phrase": "Realistic dialogue makes characters come alive.",
+      "expressions": [
+        "Write natural dialogue.",
+        "Dialogue reveals character."
+      ]
+    },
+    {
+      "word": "Mood",
+      "meaning": "Emotional atmosphere of work",
+      "phrase": "The poem's mood shifts from joy to melancholy.",
+      "expressions": [
+        "The mood is somber.",
+        "Create the right mood."
+      ]
+    },
+    {
+      "word": "Tone",
+      "meaning": "Author's attitude toward subject",
+      "phrase": "The author's tone conveys subtle criticism.",
+      "expressions": [
+        "The tone is formal.",
+        "Match your tone."
+      ]
+    },
+    {
+      "word": "Imagery",
+      "meaning": "Vivid descriptive language",
+      "phrase": "The poet's imagery appeals to all five senses.",
+      "expressions": [
+        "Use powerful imagery.",
+        "Imagery enhances meaning."
+      ]
+    },
+    {
+      "word": "Structure",
+      "meaning": "Organization and arrangement of work",
+      "phrase": "The novel's structure alternates between time periods.",
+      "expressions": [
+        "Analyze the structure.",
+        "Structure supports meaning."
       ]
     }
   ],
@@ -907,6 +1267,96 @@
         "That's quite authentic.",
         "This seems authentic."
       ]
+    },
+    {
+      "word": "Passport",
+      "meaning": "Official document for international travel",
+      "phrase": "Check that your passport is valid before traveling abroad.",
+      "expressions": [
+        "Show your passport.",
+        "Renew your passport."
+      ]
+    },
+    {
+      "word": "Visa",
+      "meaning": "Permission to enter foreign country",
+      "phrase": "Apply for a tourist visa at least a month early.",
+      "expressions": [
+        "Get a visa.",
+        "Visa requirements vary."
+      ]
+    },
+    {
+      "word": "Currency",
+      "meaning": "Money used in particular country",
+      "phrase": "Exchange your currency at the airport or bank.",
+      "expressions": [
+        "Exchange currency.",
+        "Foreign currency is needed."
+      ]
+    },
+    {
+      "word": "Landmark",
+      "meaning": "Famous building or location",
+      "phrase": "The Eiffel Tower is Paris's most famous landmark.",
+      "expressions": [
+        "Visit famous landmarks.",
+        "The landmark is impressive."
+      ]
+    },
+    {
+      "word": "Customs",
+      "meaning": "Officials who check goods at borders",
+      "phrase": "Declare valuable items when passing through customs.",
+      "expressions": [
+        "Go through customs.",
+        "Customs checked luggage."
+      ]
+    },
+    {
+      "word": "Luggage",
+      "meaning": "Bags and cases for travel",
+      "phrase": "Pack light luggage to avoid extra airline fees.",
+      "expressions": [
+        "Check your luggage.",
+        "Luggage was delayed."
+      ]
+    },
+    {
+      "word": "Schedule",
+      "meaning": "Plan showing times of activities",
+      "phrase": "Check the flight schedule for any changes.",
+      "expressions": [
+        "Follow the schedule.",
+        "Schedule changes often."
+      ]
+    },
+    {
+      "word": "Recreation",
+      "meaning": "Activities done for enjoyment",
+      "phrase": "The resort offers various recreation activities.",
+      "expressions": [
+        "Enjoy recreation time.",
+        "Recreation refreshes mind."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "meaning": "Exciting and unusual experience",
+      "phrase": "Mountain hiking offers adventure and exercise.",
+      "expressions": [
+        "Seek new adventures.",
+        "Adventure builds character."
+      ]
+    },
+    {
+      "word": "Experience",
+      "meaning": "Knowledge gained from doing something",
+      "phrase": "Travel experience broadens your worldview.",
+      "expressions": [
+        "Gain valuable experience.",
+        "Experience teaches lessons."
+      ]
     }
   ],
   "history": [
@@ -1088,6 +1538,96 @@
       "expressions": [
         "The Enlightenment promoted reason.",
         "Enlightenment ideas spread."
+      ]
+    },
+    {
+      "word": "Slavery",
+      "meaning": "System where people are owned as property",
+      "phrase": "The abolition of slavery was a moral victory.",
+      "expressions": [
+        "Slavery was abolished.",
+        "Fight against slavery."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "meaning": "State of being free from oppression",
+      "phrase": "The struggle for freedom inspired many movements.",
+      "expressions": [
+        "Freedom is precious.",
+        "Fight for freedom."
+      ]
+    },
+    {
+      "word": "Progress",
+      "meaning": "Forward movement toward better conditions",
+      "phrase": "Social progress improved living conditions for many.",
+      "expressions": [
+        "Progress takes time.",
+        "Make steady progress."
+      ]
+    },
+    {
+      "word": "Society",
+      "meaning": "Community of people living together",
+      "phrase": "Industrial society changed how people worked and lived.",
+      "expressions": [
+        "Society evolves constantly.",
+        "Society shapes individuals."
+      ]
+    },
+    {
+      "word": "Economy",
+      "meaning": "System of trade and money",
+      "phrase": "The agricultural economy supported most families.",
+      "expressions": [
+        "Economy affects everyone.",
+        "Strong economy prospers."
+      ]
+    },
+    {
+      "word": "Politics",
+      "meaning": "Activities related to government",
+      "phrase": "Politics influenced major decisions throughout history.",
+      "expressions": [
+        "Politics shapes society.",
+        "Understand basic politics."
+      ]
+    },
+    {
+      "word": "Leadership",
+      "meaning": "Ability to guide and influence others",
+      "phrase": "Strong leadership helped nations through difficult times.",
+      "expressions": [
+        "Leadership requires courage.",
+        "Good leadership inspires."
+      ]
+    },
+    {
+      "word": "Change",
+      "meaning": "Process of becoming different",
+      "phrase": "Social change often happens gradually over decades.",
+      "expressions": [
+        "Change is constant.",
+        "Embrace positive change."
+      ]
+    },
+    {
+      "word": "Heritage",
+      "meaning": "Traditions passed down from ancestors",
+      "phrase": "Cultural heritage connects us to our past.",
+      "expressions": [
+        "Preserve our heritage.",
+        "Heritage defines identity."
+      ]
+    },
+    {
+      "word": "Identity",
+      "meaning": "Characteristics that define a group",
+      "phrase": "National identity shapes how people view themselves.",
+      "expressions": [
+        "Identity forms gradually.",
+        "Cultural identity matters."
       ]
     }
   ],
@@ -1271,6 +1811,96 @@
         "That's quite globalization.",
         "This seems globalization."
       ]
+    },
+    {
+      "word": "Environment",
+      "meaning": "Natural world surrounding us",
+      "phrase": "Protecting the environment ensures future sustainability.",
+      "expressions": [
+        "Environment needs protection.",
+        "Clean environment is vital."
+      ]
+    },
+    {
+      "word": "Resources",
+      "meaning": "Materials available for use",
+      "phrase": "Natural resources include water, oil, and minerals.",
+      "expressions": [
+        "Conserve natural resources.",
+        "Resources are limited."
+      ]
+    },
+    {
+      "word": "Agriculture",
+      "meaning": "Practice of farming crops and animals",
+      "phrase": "Agriculture provides food for growing populations.",
+      "expressions": [
+        "Agriculture feeds nations.",
+        "Modern agriculture uses technology."
+      ]
+    },
+    {
+      "word": "Industry",
+      "meaning": "Economic activity involving manufacturing",
+      "phrase": "Heavy industry developed near sources of raw materials.",
+      "expressions": [
+        "Industry creates jobs.",
+        "Industry drives economy."
+      ]
+    },
+    {
+      "word": "Trade",
+      "meaning": "Exchange of goods between places",
+      "phrase": "International trade connects countries economically.",
+      "expressions": [
+        "Trade benefits everyone.",
+        "Global trade increases."
+      ]
+    },
+    {
+      "word": "Development",
+      "meaning": "Process of growth and improvement",
+      "phrase": "Economic development improves living standards.",
+      "expressions": [
+        "Development takes time.",
+        "Sustainable development is key."
+      ]
+    },
+    {
+      "word": "Culture",
+      "meaning": "Way of life of group of people",
+      "phrase": "Geographic isolation helped preserve unique cultures.",
+      "expressions": [
+        "Culture shapes identity.",
+        "Respect different cultures."
+      ]
+    },
+    {
+      "word": "Region",
+      "meaning": "Area with similar characteristics",
+      "phrase": "The Mediterranean region has a warm, dry climate.",
+      "expressions": [
+        "Each region differs.",
+        "Study the region carefully."
+      ]
+    },
+    {
+      "word": "Location",
+      "meaning": "Particular place or position",
+      "phrase": "The city's location near the harbor aided trade.",
+      "expressions": [
+        "Location matters.",
+        "Find the exact location."
+      ]
+    },
+    {
+      "word": "Distance",
+      "meaning": "Space between two places",
+      "phrase": "The distance between cities affects transportation costs.",
+      "expressions": [
+        "Measure the distance.",
+        "Distance creates challenges."
+      ]
     }
   ],
   "health": [
@@ -1452,6 +2082,96 @@
       "expressions": [
         "That's quite physiology.",
         "This seems physiology."
+      ]
+    },
+    {
+      "word": "Immunity",
+      "meaning": "Body's ability to resist disease",
+      "phrase": "Strong immunity helps fight off infections naturally.",
+      "expressions": [
+        "Build your immunity.",
+        "Immunity protects health."
+      ]
+    },
+    {
+      "word": "Infection",
+      "meaning": "Disease caused by harmful organisms",
+      "phrase": "Wash hands regularly to prevent infection spread.",
+      "expressions": [
+        "Prevent infection.",
+        "Infection can spread quickly."
+      ]
+    },
+    {
+      "word": "Surgery",
+      "meaning": "Medical operation to treat disease",
+      "phrase": "Heart surgery has become much safer with technology.",
+      "expressions": [
+        "Surgery was successful.",
+        "Surgery requires expertise."
+      ]
+    },
+    {
+      "word": "Medicine",
+      "meaning": "Science of diagnosing and treating disease",
+      "phrase": "Modern medicine has extended human lifespan significantly.",
+      "expressions": [
+        "Medicine advances rapidly.",
+        "Practice evidence-based medicine."
+      ]
+    },
+    {
+      "word": "Patient",
+      "meaning": "Person receiving medical care",
+      "phrase": "The patient responded well to the new treatment.",
+      "expressions": [
+        "The patient is recovering.",
+        "Patient care is priority."
+      ]
+    },
+    {
+      "word": "Symptoms",
+      "meaning": "Signs indicating presence of disease",
+      "phrase": "Early symptoms often help doctors diagnose problems.",
+      "expressions": [
+        "Monitor symptoms carefully.",
+        "Symptoms guide treatment."
+      ]
+    },
+    {
+      "word": "Healthy",
+      "meaning": "In good physical condition",
+      "phrase": "Healthy lifestyle choices prevent many diseases.",
+      "expressions": [
+        "Stay healthy.",
+        "Healthy living matters."
+      ]
+    },
+    {
+      "word": "Disease",
+      "meaning": "Disorder affecting body function",
+      "phrase": "Heart disease remains the leading cause of death.",
+      "expressions": [
+        "Prevent heart disease.",
+        "Disease affects quality."
+      ]
+    },
+    {
+      "word": "Emergency",
+      "meaning": "Serious medical situation requiring immediate attention",
+      "phrase": "The emergency room treats life-threatening conditions.",
+      "expressions": [
+        "Call for emergency help.",
+        "Emergency care saves lives."
+      ]
+    },
+    {
+      "word": "Safety",
+      "meaning": "Protection from harm or danger",
+      "phrase": "Workplace safety programs reduce injury rates significantly.",
+      "expressions": [
+        "Safety comes first.",
+        "Practice safety always."
       ]
     }
   ]

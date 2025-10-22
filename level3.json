@@ -179,6 +179,96 @@
         "This demonstrates tenuous.",
         "The concept of tenuous is complex."
       ]
+    },
+    {
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail",
+      "phrase": "The scientist's meticulous research yielded groundbreaking results.",
+      "expressions": [
+        "Her work is meticulous.",
+        "Be meticulous with details."
+      ]
+    },
+    {
+      "word": "Pragmatic",
+      "meaning": "Dealing with things practically",
+      "phrase": "His pragmatic approach solved the problem efficiently.",
+      "expressions": [
+        "Take a pragmatic approach.",
+        "She's very pragmatic."
+      ]
+    },
+    {
+      "word": "Ambiguous",
+      "meaning": "Open to more than one interpretation",
+      "phrase": "The contract's ambiguous language caused confusion.",
+      "expressions": [
+        "The statement is ambiguous.",
+        "Avoid ambiguous instructions."
+      ]
+    },
+    {
+      "word": "Arbitrary",
+      "meaning": "Based on random choice rather than reason",
+      "phrase": "The arbitrary deadline created unnecessary pressure.",
+      "expressions": [
+        "That seems arbitrary.",
+        "Avoid arbitrary decisions."
+      ]
+    },
+    {
+      "word": "Obsolete",
+      "meaning": "No longer in use or useful",
+      "phrase": "Digital cameras made film photography nearly obsolete.",
+      "expressions": [
+        "That technology is obsolete.",
+        "Methods become obsolete quickly."
+      ]
+    },
+    {
+      "word": "Resilient",
+      "meaning": "Able to recover quickly from difficulties",
+      "phrase": "The resilient community rebuilt after the natural disaster.",
+      "expressions": [
+        "She's remarkably resilient.",
+        "Build resilient systems."
+      ]
+    },
+    {
+      "word": "Prevalent",
+      "meaning": "Widespread in a particular area",
+      "phrase": "Social media use is prevalent among teenagers today.",
+      "expressions": [
+        "The practice is prevalent.",
+        "Misinformation is prevalent online."
+      ]
+    },
+    {
+      "word": "Implicit",
+      "meaning": "Suggested without being directly expressed",
+      "phrase": "There was an implicit understanding between the partners.",
+      "expressions": [
+        "The message was implicit.",
+        "Implicit bias affects decisions."
+      ]
+    },
+    {
+      "word": "Comprehensive",
+      "meaning": "Complete and including everything necessary",
+      "phrase": "The comprehensive report covered all aspects of the issue.",
+      "expressions": [
+        "Provide comprehensive coverage.",
+        "The study was comprehensive."
+      ]
+    },
+    {
+      "word": "Scrutinize",
+      "meaning": "Examine or inspect closely and thoroughly",
+      "phrase": "Voters will scrutinize the candidate's policy proposals.",
+      "expressions": [
+        "Scrutinize the evidence carefully.",
+        "The data requires scrutinizing."
+      ]
     }
   ],
   "science": [
@@ -360,6 +450,96 @@
       "expressions": [
         "Metamorphosis transforms completely.",
         "Butterfly metamorphosis amazes children."
+      ]
+    },
+    {
+      "word": "Photosynthesis",
+      "meaning": "Process by which plants make food from sunlight",
+      "phrase": "Photosynthesis converts carbon dioxide and water into glucose.",
+      "expressions": [
+        "Photosynthesis sustains life on Earth.",
+        "Plants use photosynthesis for energy."
+      ]
+    },
+    {
+      "word": "Osmosis",
+      "meaning": "Movement of water through semipermeable membrane",
+      "phrase": "Osmosis regulates water balance in plant cells.",
+      "expressions": [
+        "Water moves through osmosis.",
+        "Osmosis maintains cell pressure."
+      ]
+    },
+    {
+      "word": "Chromosome",
+      "meaning": "Structure containing DNA in cell nucleus",
+      "phrase": "Human cells contain 23 pairs of chromosomes.",
+      "expressions": [
+        "Chromosomes carry genetic information.",
+        "DNA is organized in chromosomes."
+      ]
+    },
+    {
+      "word": "Ecosystem",
+      "meaning": "Community of living organisms and environment",
+      "phrase": "The rainforest ecosystem supports incredible biodiversity.",
+      "expressions": [
+        "Protect fragile ecosystems.",
+        "The ecosystem is interconnected."
+      ]
+    },
+    {
+      "word": "Molecule",
+      "meaning": "Group of atoms bonded together",
+      "phrase": "Water molecules consist of hydrogen and oxygen atoms.",
+      "expressions": [
+        "Molecules form chemical compounds.",
+        "The molecule has unique properties."
+      ]
+    },
+    {
+      "word": "Velocity",
+      "meaning": "Speed of something in given direction",
+      "phrase": "The spacecraft's velocity increased during orbital insertion.",
+      "expressions": [
+        "Calculate the object's velocity.",
+        "Velocity includes both speed and direction."
+      ]
+    },
+    {
+      "word": "Gravity",
+      "meaning": "Force that attracts objects toward Earth",
+      "phrase": "Gravity keeps planets in orbit around the sun.",
+      "expressions": [
+        "Gravity pulls objects downward.",
+        "Newton discovered gravity's laws."
+      ]
+    },
+    {
+      "word": "Evolution",
+      "meaning": "Process of gradual change over time",
+      "phrase": "Evolution explains the diversity of life on Earth.",
+      "expressions": [
+        "Species change through evolution.",
+        "Evolution occurs over generations."
+      ]
+    },
+    {
+      "word": "Microscope",
+      "meaning": "Instrument for viewing very small objects",
+      "phrase": "The electron microscope revealed cellular structures.",
+      "expressions": [
+        "Use a microscope to examine cells.",
+        "Microscopes magnify tiny specimens."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "meaning": "Proposed explanation for observed phenomenon",
+      "phrase": "Scientists tested their hypothesis through controlled experiments.",
+      "expressions": [
+        "Form a testable hypothesis.",
+        "The hypothesis needs validation."
       ]
     }
   ],
@@ -543,6 +723,96 @@
         "This demonstrates recession.",
         "The concept of recession is complex."
       ]
+    },
+    {
+      "word": "Entrepreneur",
+      "meaning": "Person who starts and runs business ventures",
+      "phrase": "The young entrepreneur launched three successful startups.",
+      "expressions": [
+        "Be a creative entrepreneur.",
+        "Entrepreneurs take calculated risks."
+      ]
+    },
+    {
+      "word": "Profit",
+      "meaning": "Financial gain from business operations",
+      "phrase": "The company reported record profit in the third quarter.",
+      "expressions": [
+        "Maximize profit margins.",
+        "Profit drives business decisions."
+      ]
+    },
+    {
+      "word": "Investment",
+      "meaning": "Act of putting money into something for return",
+      "phrase": "Long-term investment strategies often yield better results.",
+      "expressions": [
+        "Make wise investments.",
+        "Investment requires patience."
+      ]
+    },
+    {
+      "word": "Marketing",
+      "meaning": "Activity of promoting and selling products",
+      "phrase": "Digital marketing transformed how companies reach customers.",
+      "expressions": [
+        "Effective marketing increases sales.",
+        "Marketing targets specific audiences."
+      ]
+    },
+    {
+      "word": "Budget",
+      "meaning": "Plan for income and expenditure",
+      "phrase": "The department exceeded its annual budget by fifteen percent.",
+      "expressions": [
+        "Create a realistic budget.",
+        "Budget carefully for success."
+      ]
+    },
+    {
+      "word": "Competition",
+      "meaning": "Activity of striving against others for advantage",
+      "phrase": "Healthy competition drives innovation in the marketplace.",
+      "expressions": [
+        "Competition improves quality.",
+        "Face fierce competition."
+      ]
+    },
+    {
+      "word": "Revenue",
+      "meaning": "Income generated from business operations",
+      "phrase": "Online sales contributed significantly to quarterly revenue.",
+      "expressions": [
+        "Revenue exceeded expectations.",
+        "Diversify revenue streams."
+      ]
+    },
+    {
+      "word": "Merger",
+      "meaning": "Combination of two companies into one",
+      "phrase": "The merger created the industry's largest corporation.",
+      "expressions": [
+        "The merger benefits shareholders.",
+        "Merger negotiations are complex."
+      ]
+    },
+    {
+      "word": "Innovation",
+      "meaning": "Introduction of new ideas or methods",
+      "phrase": "Technological innovation drives economic growth worldwide.",
+      "expressions": [
+        "Foster innovation in teams.",
+        "Innovation creates competitive advantage."
+      ]
+    },
+    {
+      "word": "Strategy",
+      "meaning": "Plan of action designed to achieve goal",
+      "phrase": "The company's expansion strategy focused on emerging markets.",
+      "expressions": [
+        "Develop a clear strategy.",
+        "Strategy guides decision-making."
+      ]
     }
   ],
   "literature": [
@@ -724,6 +994,96 @@
       "expressions": [
         "This demonstrates hermeneutics.",
         "The concept of hermeneutics is complex."
+      ]
+    },
+    {
+      "word": "Metaphor",
+      "meaning": "Figure of speech comparing two unlike things",
+      "phrase": "The metaphor 'life is a journey' resonates with many readers.",
+      "expressions": [
+        "Use metaphors to clarify ideas.",
+        "The metaphor creates vivid imagery."
+      ]
+    },
+    {
+      "word": "Irony",
+      "meaning": "Expression of meaning through opposite words",
+      "phrase": "The irony of the situation wasn't lost on observers.",
+      "expressions": [
+        "The irony is unmistakable.",
+        "Situational irony surprises readers."
+      ]
+    },
+    {
+      "word": "Symbolism",
+      "meaning": "Use of symbols to represent ideas",
+      "phrase": "The white dove's symbolism represents peace and hope.",
+      "expressions": [
+        "Symbolism enriches literature.",
+        "The symbolism is profound."
+      ]
+    },
+    {
+      "word": "Theme",
+      "meaning": "Central topic or message in work",
+      "phrase": "The novel's main theme explores the nature of friendship.",
+      "expressions": [
+        "Identify the central theme.",
+        "The theme resonates universally."
+      ]
+    },
+    {
+      "word": "Protagonist",
+      "meaning": "Main character in story or drama",
+      "phrase": "The protagonist faces increasingly difficult moral choices.",
+      "expressions": [
+        "The protagonist drives the plot.",
+        "Readers empathize with protagonists."
+      ]
+    },
+    {
+      "word": "Antagonist",
+      "meaning": "Character who opposes the protagonist",
+      "phrase": "The cunning antagonist creates tension throughout the story.",
+      "expressions": [
+        "The antagonist provides conflict.",
+        "Every story needs an antagonist."
+      ]
+    },
+    {
+      "word": "Narrative",
+      "meaning": "Spoken or written account of events",
+      "phrase": "The first-person narrative creates intimate reader connection.",
+      "expressions": [
+        "The narrative unfolds gradually.",
+        "Narrative structure shapes meaning."
+      ]
+    },
+    {
+      "word": "Genre",
+      "meaning": "Category of artistic composition",
+      "phrase": "Science fiction is a popular literary genre among young adults.",
+      "expressions": [
+        "Each genre has conventions.",
+        "The genre influences expectations."
+      ]
+    },
+    {
+      "word": "Climax",
+      "meaning": "Most intense point in story",
+      "phrase": "The story's climax revealed the murderer's true identity.",
+      "expressions": [
+        "The climax builds tension.",
+        "Readers anticipate the climax."
+      ]
+    },
+    {
+      "word": "Resolution",
+      "meaning": "Conclusion where conflicts are resolved",
+      "phrase": "The resolution tied together all the story's loose ends.",
+      "expressions": [
+        "The resolution satisfies readers.",
+        "Good resolution provides closure."
       ]
     }
   ],
@@ -907,6 +1267,96 @@
         "Conduct reconnaissance first.",
         "Military reconnaissance gathers intelligence."
       ]
+    },
+    {
+      "word": "Tourism",
+      "meaning": "Commercial organization of holidays",
+      "phrase": "Tourism provides significant economic benefits to developing countries.",
+      "expressions": [
+        "Tourism boosts local economy.",
+        "Sustainable tourism protects environments."
+      ]
+    },
+    {
+      "word": "Culture",
+      "meaning": "Arts and customs of particular society",
+      "phrase": "Immersing yourself in local culture enriches travel experiences.",
+      "expressions": [
+        "Respect local culture.",
+        "Culture shapes perspectives."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "meaning": "Exciting or unusual experience",
+      "phrase": "The mountain climbing adventure tested their physical limits.",
+      "expressions": [
+        "Seek adventure responsibly.",
+        "Adventure builds character."
+      ]
+    },
+    {
+      "word": "Destination",
+      "meaning": "Place to which someone is going",
+      "phrase": "Paris remains a top destination for international travelers.",
+      "expressions": [
+        "Choose your destination carefully.",
+        "The destination exceeded expectations."
+      ]
+    },
+    {
+      "word": "Immigration",
+      "meaning": "Action of coming to live permanently",
+      "phrase": "Immigration policies affect international student mobility.",
+      "expressions": [
+        "Immigration requires documentation.",
+        "Immigration enriches societies."
+      ]
+    },
+    {
+      "word": "Backpacking",
+      "meaning": "Traveling with minimal luggage",
+      "phrase": "Backpacking through Europe taught her independence and resourcefulness.",
+      "expressions": [
+        "Backpacking builds confidence.",
+        "Backpacking requires careful planning."
+      ]
+    },
+    {
+      "word": "Hospitality",
+      "meaning": "Friendly reception of guests",
+      "phrase": "The local family's hospitality made their stay memorable.",
+      "expressions": [
+        "Show genuine hospitality.",
+        "Hospitality creates lasting impressions."
+      ]
+    },
+    {
+      "word": "Navigation",
+      "meaning": "Process of planning and following route",
+      "phrase": "GPS technology revolutionized navigation for modern travelers.",
+      "expressions": [
+        "Master basic navigation skills.",
+        "Navigation prevents getting lost."
+      ]
+    },
+    {
+      "word": "Customs",
+      "meaning": "Traditional practices of particular group",
+      "phrase": "Understanding local customs helps avoid cultural misunderstandings.",
+      "expressions": [
+        "Observe local customs respectfully.",
+        "Customs vary between cultures."
+      ]
+    },
+    {
+      "word": "Transportation",
+      "meaning": "System of moving people or goods",
+      "phrase": "Public transportation offers an affordable way to explore cities.",
+      "expressions": [
+        "Use efficient transportation methods.",
+        "Transportation connects destinations."
+      ]
     }
   ],
   "history": [
@@ -1088,6 +1538,96 @@
       "expressions": [
         "This demonstrates anthropology.",
         "The concept of anthropology is complex."
+      ]
+    },
+    {
+      "word": "Revolution",
+      "meaning": "Forcible overthrow of government or social order",
+      "phrase": "The American Revolution established principles of democratic governance.",
+      "expressions": [
+        "Revolution brings dramatic change.",
+        "The revolution transformed society."
+      ]
+    },
+    {
+      "word": "Democracy",
+      "meaning": "System of government by elected representatives",
+      "phrase": "Ancient Athens is considered the birthplace of democracy.",
+      "expressions": [
+        "Democracy requires citizen participation.",
+        "Protect democratic institutions."
+      ]
+    },
+    {
+      "word": "Civilization",
+      "meaning": "Advanced stage of human social development",
+      "phrase": "The Mesopotamian civilization developed the first writing systems.",
+      "expressions": [
+        "Civilization requires organization.",
+        "Ancient civilizations fascinate historians."
+      ]
+    },
+    {
+      "word": "Empire",
+      "meaning": "Extensive group of states under single authority",
+      "phrase": "The Roman Empire influenced law and governance for centuries.",
+      "expressions": [
+        "Empires rise and fall.",
+        "The empire expanded rapidly."
+      ]
+    },
+    {
+      "word": "Treaty",
+      "meaning": "Formal agreement between countries",
+      "phrase": "The peace treaty ended decades of bitter conflict.",
+      "expressions": [
+        "Negotiate favorable treaties.",
+        "The treaty established boundaries."
+      ]
+    },
+    {
+      "word": "Slavery",
+      "meaning": "System of owning people as property",
+      "phrase": "The abolition of slavery represented a major moral victory.",
+      "expressions": [
+        "Slavery violates human rights.",
+        "Fight against modern slavery."
+      ]
+    },
+    {
+      "word": "War",
+      "meaning": "State of armed conflict between nations",
+      "phrase": "World War II reshaped global political alignments permanently.",
+      "expressions": [
+        "War brings terrible consequences.",
+        "Prevent unnecessary wars."
+      ]
+    },
+    {
+      "word": "Constitution",
+      "meaning": "System of fundamental principles governing nation",
+      "phrase": "The Constitution guarantees citizens' fundamental rights and freedoms.",
+      "expressions": [
+        "The Constitution protects rights.",
+        "Constitutional principles endure."
+      ]
+    },
+    {
+      "word": "Migration",
+      "meaning": "Movement of people from one place to another",
+      "phrase": "Human migration patterns shaped the development of civilizations.",
+      "expressions": [
+        "Migration creates cultural exchange.",
+        "Study historical migration patterns."
+      ]
+    },
+    {
+      "word": "Dynasty",
+      "meaning": "Line of rulers from same family",
+      "phrase": "The Ming Dynasty ruled China for nearly three centuries.",
+      "expressions": [
+        "The dynasty lasted centuries.",
+        "Dynasties shape national identity."
       ]
     }
   ],
@@ -1271,6 +1811,96 @@
         "This demonstrates stratigraphy.",
         "The concept of stratigraphy is complex."
       ]
+    },
+    {
+      "word": "Continent",
+      "meaning": "Large continuous mass of land",
+      "phrase": "Antarctica is the coldest and most isolated continent on Earth.",
+      "expressions": [
+        "Each continent has unique features.",
+        "Continental drift shaped geography."
+      ]
+    },
+    {
+      "word": "Mountain",
+      "meaning": "Large natural elevation of earth's surface",
+      "phrase": "Mount Everest is the world's highest mountain peak.",
+      "expressions": [
+        "Mountains create weather patterns.",
+        "Mountain ranges divide regions."
+      ]
+    },
+    {
+      "word": "River",
+      "meaning": "Large natural stream of water",
+      "phrase": "The Amazon River system supports incredible biodiversity.",
+      "expressions": [
+        "Rivers provide fresh water.",
+        "River valleys support agriculture."
+      ]
+    },
+    {
+      "word": "Desert",
+      "meaning": "Barren area with little precipitation",
+      "phrase": "The Sahara Desert spans across multiple African countries.",
+      "expressions": [
+        "Deserts have extreme temperatures.",
+        "Desert ecosystems are fragile."
+      ]
+    },
+    {
+      "word": "Ocean",
+      "meaning": "Large body of salt water",
+      "phrase": "The Pacific Ocean covers one-third of Earth's surface.",
+      "expressions": [
+        "Oceans regulate global climate.",
+        "Ocean currents distribute heat."
+      ]
+    },
+    {
+      "word": "Climate",
+      "meaning": "Long-term weather conditions in area",
+      "phrase": "Climate change affects agricultural productivity worldwide.",
+      "expressions": [
+        "Climate influences vegetation.",
+        "Climate zones determine habitats."
+      ]
+    },
+    {
+      "word": "Population",
+      "meaning": "Number of people living in area",
+      "phrase": "Urban population growth challenges city infrastructure development.",
+      "expressions": [
+        "Population density varies greatly.",
+        "Population growth requires planning."
+      ]
+    },
+    {
+      "word": "Latitude",
+      "meaning": "Distance north or south of equator",
+      "phrase": "Latitude lines help determine climate zones and seasons.",
+      "expressions": [
+        "Latitude affects temperature.",
+        "Measure latitude precisely."
+      ]
+    },
+    {
+      "word": "Longitude",
+      "meaning": "Distance east or west of prime meridian",
+      "phrase": "Longitude lines determine time zones around the world.",
+      "expressions": [
+        "Longitude creates time zones.",
+        "GPS uses longitude coordinates."
+      ]
+    },
+    {
+      "word": "Environment",
+      "meaning": "Natural world surrounding living organisms",
+      "phrase": "Protecting the environment ensures future generations' well-being.",
+      "expressions": [
+        "Environment needs protection.",
+        "Environment shapes ecosystems."
+      ]
     }
   ],
   "health": [
@@ -1452,6 +2082,96 @@
       "expressions": [
         "This demonstrates exacerbation.",
         "The concept of exacerbation is complex."
+      ]
+    },
+    {
+      "word": "Nutrition",
+      "meaning": "Process of providing food for health",
+      "phrase": "Good nutrition is essential for maintaining optimal health.",
+      "expressions": [
+        "Nutrition affects energy levels.",
+        "Proper nutrition prevents disease."
+      ]
+    },
+    {
+      "word": "Exercise",
+      "meaning": "Physical activity for health and fitness",
+      "phrase": "Regular exercise reduces risk of cardiovascular disease.",
+      "expressions": [
+        "Exercise improves mental health.",
+        "Exercise strengthens muscles."
+      ]
+    },
+    {
+      "word": "Immunity",
+      "meaning": "Body's ability to resist infection",
+      "phrase": "Vaccination helps build immunity against dangerous diseases.",
+      "expressions": [
+        "Immunity protects from illness.",
+        "Build natural immunity safely."
+      ]
+    },
+    {
+      "word": "Diagnosis",
+      "meaning": "Identification of disease or condition",
+      "phrase": "Early diagnosis improves treatment outcomes significantly.",
+      "expressions": [
+        "Accurate diagnosis guides treatment.",
+        "Diagnosis requires thorough examination."
+      ]
+    },
+    {
+      "word": "Treatment",
+      "meaning": "Medical care for illness or injury",
+      "phrase": "Modern treatment options have improved survival rates.",
+      "expressions": [
+        "Treatment should be personalized.",
+        "Effective treatment requires compliance."
+      ]
+    },
+    {
+      "word": "Prevention",
+      "meaning": "Action of stopping something from happening",
+      "phrase": "Disease prevention is more cost-effective than treatment.",
+      "expressions": [
+        "Prevention is better than cure.",
+        "Prevention requires lifestyle changes."
+      ]
+    },
+    {
+      "word": "Symptom",
+      "meaning": "Physical sign of disease or condition",
+      "phrase": "Persistent cough can be a symptom of various conditions.",
+      "expressions": [
+        "Monitor symptoms carefully.",
+        "Symptoms guide medical decisions."
+      ]
+    },
+    {
+      "word": "Medication",
+      "meaning": "Substance used to treat disease",
+      "phrase": "Take medication exactly as prescribed by your doctor.",
+      "expressions": [
+        "Medication requires proper dosing.",
+        "Medication can have side effects."
+      ]
+    },
+    {
+      "word": "Recovery",
+      "meaning": "Process of returning to health",
+      "phrase": "Physical therapy accelerated her recovery from surgery.",
+      "expressions": [
+        "Recovery takes time and patience.",
+        "Support aids recovery process."
+      ]
+    },
+    {
+      "word": "Wellness",
+      "meaning": "State of being in good health",
+      "phrase": "Workplace wellness programs improve employee productivity.",
+      "expressions": [
+        "Wellness encompasses mental health.",
+        "Wellness requires balanced lifestyle."
       ]
     }
   ]

@@ -1,160 +1,160 @@
-Magnificent | Extremely beautiful or impressive | The magnificent cathedral dominated the city skyline. | general
-Extraordinary | Very unusual or remarkable | Her extraordinary talent impressed everyone at the audition. | general
-Substantial | Large in amount, size, or importance | The company made substantial investments in new technology. | general
-Versatile | Able to adapt to many different functions | This versatile tool can be used for multiple purposes. | general
-Sophisticated | Complex or refined in design | The sophisticated software requires advanced training. | general
-Comprehensive | Complete and including everything necessary | The comprehensive report covered all aspects of the problem. | general
-Innovative | Introducing new ideas or methods | The innovative design won several international awards. | general
-Fundamental | Basic and essential | Understanding grammar is fundamental to language learning. | general
-Prominent | Important and well-known | She became a prominent figure in environmental activism. | general
-Meticulous | Showing great attention to detail | The scientist was meticulous in recording her observations. | general
-Resilient | Able to recover quickly from difficulties | Children are remarkably resilient after traumatic experiences. | general
-Eloquent | Fluent and persuasive in speaking | The eloquent speaker moved the audience to tears. | general
-Pragmatic | Dealing with things realistically | A pragmatic approach considers practical limitations. | general
-Conscientious | Careful and dutiful | Conscientious students always complete their assignments on time. | general
-Proactive | Taking action before problems occur | Being proactive helps prevent many workplace issues. | general
-Diligent | Hardworking and careful | Diligent practice leads to mastery of any skill. | general
-Analytical | Using logical reasoning | Her analytical mind helped solve complex problems. | general
-Intuitive | Using instinct rather than reasoning | The intuitive interface makes the software easy to use. | general
-Empathetic | Understanding others' feelings | Empathetic leaders create positive work environments. | general
-Charismatic | Having compelling charm that inspires others | The charismatic leader motivated the entire team. | general
-Hypothesis | Proposed explanation for a phenomenon | Scientists test their hypothesis through controlled experiments. | science
-Ecosystem | Community of living and non-living things | The forest ecosystem supports hundreds of species. | science
-Molecule | Group of atoms bonded together | Water molecules consist of hydrogen and oxygen atoms. | science
-Evolution | Process of gradual change over time | Darwin's theory explains the evolution of species. | science
-Biodiversity | Variety of life in ecosystems | Tropical rainforests have the highest biodiversity on Earth. | science
-Metabolism | Chemical processes in living organisms | Exercise increases your metabolism and burns calories. | science
-Photosynthesis | Process plants use to make food from sunlight | Photosynthesis converts carbon dioxide into oxygen. | science
-Genetics | Study of heredity and inherited traits | Advances in genetics help treat inherited diseases. | science
-Astronomy | Study of celestial objects and space | Astronomy reveals the mysteries of distant galaxies. | science
-Chemistry | Study of matter and its properties | Chemistry explains how different substances interact. | science
-Physics | Study of matter, energy, and motion | Physics principles explain how airplanes can fly. | science
-Laboratory | Room equipped for scientific experiments | The laboratory has advanced equipment for research. | science
-Microscope | Instrument for viewing very small objects | The microscope revealed bacteria invisible to naked eyes. | science
-Specimen | Sample used for scientific study | The museum displays specimens from around the world. | science
-Pharmaceutical | Related to medicinal drugs | The pharmaceutical industry develops life-saving medications. | science
-Sustainable | Able to continue without depleting resources | Sustainable farming protects soil for future generations. | science
-Renewable | Able to be replenished naturally | Solar power is a renewable energy source. | science
-Conservation | Protection of natural resources | Wildlife conservation efforts saved the species from extinction. | science
-Contamination | Pollution or impurity in environment | Water contamination poses serious health risks. | science
-Innovation | Introduction of new methods or ideas | Scientific innovation drives technological progress. | science
-Entrepreneur | Person who starts and runs businesses | The young entrepreneur launched three successful startups. | business
-Innovation | Introduction of new ideas or products | Innovation is crucial for companies to stay competitive. | business
-Strategic | Relating to long-term planning | Strategic thinking helps businesses prepare for future challenges. | business
-Competitive | Having strong desire to win | The competitive market forces companies to improve constantly. | business
-Sustainable | Able to continue long-term | Sustainable business practices benefit both profit and environment. | business
-Collaboration | Working together toward common goals | Collaboration between departments improved overall efficiency. | business
-Negotiation | Discussion to reach agreement | Successful negotiation requires preparation and flexibility. | business
-Networking | Building professional relationships | Networking events help professionals expand their contacts. | business
-Leadership | Ability to guide and inspire others | Effective leadership motivates teams to achieve excellence. | business
-Productivity | Efficiency in producing results | New software significantly increased team productivity. | business
-Profitability | Ability to generate financial gain | Cost reduction strategies improved the company's profitability. | business
-Diversification | Expanding into different areas | Portfolio diversification reduces investment risks. | business
-Optimization | Making something as effective as possible | Website optimization improved user experience significantly. | business
-Acquisition | Purchasing another company | The acquisition expanded their market presence internationally. | business
-Partnership | Cooperative relationship between businesses | The strategic partnership benefited both companies equally. | business
-Stakeholder | Person with interest in company's success | All stakeholders were consulted before major decisions. | business
-Franchise | License to operate business using another's model | The restaurant franchise expanded to fifty locations. | business
-Corporation | Large company legally recognized as entity | The multinational corporation employs thousands worldwide. | business
-Revenue | Income generated from business operations | Quarterly revenue exceeded all previous projections. | business
-Subsidiary | Company controlled by another company | The subsidiary operates independently in Asian markets. | business
-Metaphor | Comparison without using 'like' or 'as' | Shakespeare used metaphor to compare life to a stage. | literature
-Symbolism | Use of symbols to represent ideas | The dove is a powerful symbolism for peace. | literature
-Protagonist | Main character in a story | The protagonist overcame many obstacles to achieve success. | literature
-Antagonist | Character who opposes the protagonist | The antagonist created conflict throughout the entire novel. | literature
-Narrative | Spoken or written account of events | The narrative technique made the story compelling. | literature
-Allegory | Story with hidden meaning | Animal Farm is an allegory about political corruption. | literature
-Irony | Expression of meaning through opposite words | The irony of the situation wasn't lost on observers. | literature
-Eloquence | Fluent and persuasive speech or writing | The speaker's eloquence captivated the entire audience. | literature
-Renaissance | Period of renewed interest in arts | Renaissance literature explored humanistic themes. | literature
-Classical | Representing highest standards of ancient art | Classical literature continues to influence modern writers. | literature
-Contemporary | Belonging to the present time | Contemporary authors address current social issues. | literature
-Epic | Long narrative poem about heroic deeds | Homer's epic poems influenced Western literature. | literature
-Tragedy | Serious play with unhappy ending | Shakespeare's tragedies explore human nature's darker aspects. | literature
-Satire | Use of humor to criticize | The satire cleverly exposed political hypocrisy. | literature
-Biography | Account of someone's life | The biography revealed previously unknown details. | literature
-Autobiography | Account of one's own life | Her autobiography became an international bestseller. | literature
-Anthology | Collection of literary works | The poetry anthology featured works from emerging poets. | literature
-Manuscript | Author's original written work | The ancient manuscript was discovered in monastery. | literature
-Genre | Category of literary composition | Science fiction is her favorite literary genre. | literature
-Critique | Detailed analysis and assessment | The literary critique examined themes and symbolism. | literature
-Expedition | Journey for specific purpose | The Arctic expedition lasted six months. | travel
-Itinerary | Planned route or journey | Our itinerary includes visits to five different countries. | travel
-Excursion | Short journey for pleasure | The day excursion to the winery was delightful. | travel
-Pilgrimage | Journey to sacred place | Thousands make the pilgrimage to the holy site annually. | travel
-Adventure | Exciting and potentially dangerous experience | Mountain climbing offers adventure and stunning views. | travel
-Destination | Place where journey ends | Paris remains the world's most popular tourist destination. | travel
-Accommodation | Place to stay during travel | Book your accommodation well in advance during peak season. | travel
-Transportation | Means of getting from place to place | Public transportation in the city is efficient and affordable. | travel
-Immigration | Process of entering foreign country | Immigration procedures can take several hours at busy airports. | travel
-Documentation | Official papers required for travel | Ensure all travel documentation is current before departure. | travel
-Reservation | Arrangement to secure services | Hotel reservation confirmations should be printed before travel. | travel
-Hospitality | Friendly and generous treatment of guests | The local hospitality made our visit truly memorable. | travel
-Cosmopolitan | Including people from many countries | New York is a cosmopolitan city with diverse cultures. | travel
-Indigenous | Native to particular region | Indigenous art reflects traditional cultural values. | travel
-Culinary | Related to cooking and food | The culinary tour introduced us to authentic local dishes. | travel
-Architecture | Design and construction of buildings | Gothic architecture dominates the old city center. | travel
-Heritage | Traditional customs passed down | UNESCO protects world heritage sites for future generations. | travel
-Souvenir | Thing kept as reminder of place | Local handicrafts make meaningful souvenirs. | travel
-Panoramic | Wide unobstructed view | The panoramic view from the tower was breathtaking. | travel
-Authentic | Genuine and original | Tourists seek authentic experiences in local communities. | travel
-Civilization | Advanced stage of human social development | Ancient Greek civilization influenced Western culture. | history
-Renaissance | Period of renewed interest in arts and learning | The Renaissance transformed European art and science. | history
-Revolution | Dramatic change in political or social conditions | The Industrial Revolution changed how people worked. | history
-Dynasty | Series rulers from same family | The Ming Dynasty ruled China for nearly 300 years. | history
-Democracy | Government by the people | Ancient Athens is considered birthplace of democracy. | history
-Monarchy | Government ruled by king or queen | The constitutional monarchy limits royal power. | history
-Republic | Government where power belongs to people | The Roman Republic preceded the Roman Empire. | history
-Constitution | Set of fundamental principles for governance | The constitution guarantees citizens' basic rights. | history
-Colonization | Establishing control over foreign territory | European colonization changed indigenous cultures worldwide. | history
-Independence | Freedom from outside control | The country celebrated fifty years of independence. | history
-Treaty | Formal agreement between nations | The peace treaty ended decades of conflict. | history
-Alliance | Union formed for mutual benefit | Military alliances shaped European politics for centuries. | history
-Archaeology | Study of human history through excavation | Archaeology reveals secrets of ancient civilizations. | history
-Artifact | Object made by human in past | The museum displays artifacts from various time periods. | history
-Legacy | Something left behind by predecessor | The leader's legacy includes significant social reforms. | history
-Persecution | Hostility and ill-treatment | Religious persecution forced many people to flee. | history
-Migration | Movement from one place to another | Economic migration shaped modern urban development. | history
-Feudalism | Medieval social system based on land ownership | Feudalism dominated European society for centuries. | history
-Reformation | Movement to reform religious practices | The Protestant Reformation divided European Christianity. | history
-Enlightenment | Age of reason and intellectual development | Enlightenment thinkers influenced modern democratic ideals. | history
-Topography | Physical features of land surface | The region's mountainous topography affects weather patterns. | geography
-Cartography | Science of making maps | Digital cartography has revolutionized map-making. | geography
-Latitude | Distance north or south of equator | Cities at the same latitude often have similar climates. | geography
-Longitude | Distance east or west of prime meridian | Greenwich, England marks zero degrees longitude. | geography
-Hemisphere | Half of Earth divided by equator | Australia is located in the Southern Hemisphere. | geography
-Archipelago | Group of islands | The Philippine archipelago consists of over 7,000 islands. | geography
-Peninsula | Land surrounded by water on three sides | The Italian peninsula extends into Mediterranean Sea. | geography
-Tributary | River flowing into larger river | The Missouri River is the longest tributary of Mississippi. | geography
-Watershed | Area draining into river system | The Amazon watershed covers 40% of South America. | geography
-Plateau | Flat elevated area of land | The Tibetan Plateau is known as 'Roof of World'. | geography
-Tectonic | Relating to Earth's structural plates | Tectonic plate movement causes earthquakes and volcanoes. | geography
-Erosion | Wearing away of soil and rock | Water erosion carved the magnificent Grand Canyon. | geography
-Sediment | Matter deposited by water or wind | River sediment creates fertile agricultural deltas. | geography
-Precipitation | Rain, snow, or other moisture falling | Annual precipitation determines regional vegetation types. | geography
-Urbanization | Growth of cities and towns | Rapid urbanization creates environmental challenges. | geography
-Migration | Movement of people or animals | Rural-to-urban migration characterizes developing countries. | geography
-Sustainability | Meeting needs without compromising future | Environmental sustainability requires global cooperation. | geography
-Biodiversity | Variety of life in ecosystems | Tropical regions have the highest biodiversity levels. | geography
-Deforestation | Clearing forests for other land use | Deforestation contributes to climate change globally. | geography
-Globalization | Worldwide integration of economies | Globalization connects distant places through trade. | geography
-Cardiovascular | Related to heart and blood vessels | Regular exercise improves cardiovascular health significantly. | health
-Immune | Protected against disease | A strong immune system fights off infections naturally. | health
-Metabolism | Chemical processes converting food to energy | Age and activity level affect metabolism rates. | health
-Chronic | Long-lasting or recurring medical condition | Diabetes is a chronic condition requiring daily management. | health
-Diagnosis | Identification of disease or condition | Early diagnosis improves treatment success rates. | health
-Therapy | Treatment to heal disorder | Physical therapy helped restore mobility after injury. | health
-Rehabilitation | Process of recovery after illness | Cardiac rehabilitation programs prevent future heart problems. | health
-Immunization | Process of making immune to disease | Childhood immunization prevents serious infectious diseases. | health
-Epidemic | Widespread occurrence of infectious disease | The flu epidemic affected thousands of people. | health
-Pharmaceutical | Related to medicinal drugs | Pharmaceutical research develops new treatments constantly. | health
-Holistic | Considering whole person in treatment | Holistic medicine addresses physical and emotional health. | health
-Wellness | Active pursuit of healthy lifestyle | Corporate wellness programs reduce employee healthcare costs. | health
-Preventive | Designed to prevent disease | Preventive care includes regular screenings and checkups. | health
-Therapeutic | Having healing properties | The therapeutic massage relieved chronic back pain. | health
-Pathology | Study of disease and its effects | Pathology reports help doctors determine treatment plans. | health
-Prognosis | Likely course of medical condition | The patient's prognosis improved with new treatment. | health
-Antibiotics | Medicines that fight bacterial infections | Overuse of antibiotics creates drug-resistant bacteria. | health
-Psychiatry | Branch of medicine dealing with mental health | Psychiatry combines medication and therapy for treatment. | health
-Nutrition | Process of obtaining food for health | Proper nutrition supports optimal physical development. | health
-Physiology | Study of body functions | Exercise physiology explains how muscles adapt to training. | health
+Important | Having great significance or value | It's important to study every day for better results. | general
+Beautiful | Pleasing to look at; attractive | The sunset was beautiful over the calm lake. | general
+Friendly | Kind and pleasant to others | The teacher was very friendly to all new students. | general
+Helpful | Giving or ready to give help | My neighbor is always helpful when I need assistance. | general
+Creative | Having the ability to make new things | She is very creative with her art projects. | general
+Careful | Taking care to avoid danger or mistakes | Be careful when crossing the busy street. | general
+Popular | Liked by many people | Pizza is a popular food choice among teenagers. | general
+Modern | Relating to the present time | The modern technology makes our lives easier. | general
+Simple | Easy to understand or do | This recipe is simple and quick to make. | general
+Natural | Existing in nature, not made by humans | I prefer natural foods over processed ones. | general
+Special | Better or more important than usual | Today is a special day for our family. | general
+Perfect | Having no mistakes or faults | The weather is perfect for a picnic today. | general
+Honest | Telling the truth; not lying | An honest person always tells the truth. | general
+Generous | Willing to give more than necessary | My grandfather was generous with his time and money. | general
+Patient | Able to wait calmly | Good teachers are patient with slow learners. | general
+Confident | Feeling sure about your abilities | She felt confident about passing the exam. | general
+Curious | Wanting to know or learn about things | Children are naturally curious about the world. | general
+Organized | Arranged in a neat and logical way | Keep your desk organized for better productivity. | general
+Relaxed | Free from tension and anxiety | I feel relaxed when I listen to music. | general
+Successful | Achieving desired results | Hard work leads to successful outcomes. | general
+Animal | A living creature that can move and eat | The zoo has many different animals from around the world. | science
+Plant | A living thing that grows in soil | Water the plant every morning to keep it healthy. | science
+Water | Clear liquid that falls as rain | Drink plenty of water to stay healthy. | science
+Energy | Power used to make things work | Solar panels collect energy from the sun. | science
+Nature | The physical world including plants and animals | Spending time in nature helps reduce stress. | science
+Weather | Conditions outside like rain or sunshine | Check the weather before planning outdoor activities. | science
+Climate | The usual weather in a place | The climate here is warm and sunny most of the year. | science
+Ocean | Very large area of salt water | The Pacific Ocean is the largest ocean on Earth. | science
+Forest | Large area covered with trees | Many wild animals live in the forest. | science
+Mountain | Very high area of land | We climbed the mountain to see the beautiful view. | science
+River | Large stream of water flowing to the sea | The river flows through the center of our city. | science
+Earth | The planet we live on | Earth is the only planet known to have life. | science
+Space | The area beyond Earth where stars exist | Astronauts travel to space in rockets. | science
+Science | Study of the natural world | Science helps us understand how things work. | science
+Health | Being free from illness | Exercise and good food are important for health. | science
+Medicine | Treatment used to cure illness | Take your medicine three times a day. | science
+Doctor | Person who treats sick people | Visit the doctor if you feel unwell. | science
+Environment | The natural world around us | We must protect the environment for future generations. | science
+Temperature | How hot or cold something is | The temperature today is perfect for swimming. | science
+Experiment | Test done to learn something new | We did a science experiment in class today. | science
+Work | Activity done to earn money | I work at a local restaurant on weekends. | business
+Job | Regular paid employment | She found a good job at the bank. | business
+Money | Coins and notes used to buy things | Save your money for something special. | business
+Business | Activity of buying and selling | My uncle owns a small business in town. | business
+Company | Organization that sells goods or services | The company employs over 100 people. | business
+Customer | Person who buys goods or services | Good customer service is very important. | business
+Product | Something made to be sold | This product is very popular with young people. | business
+Service | Work done to help customers | The hotel provides excellent room service. | business
+Price | Amount of money something costs | The price of gas has increased this month. | business
+Sale | Act of selling something | The store is having a big sale this weekend. | business
+Profit | Money gained from business | The company made a good profit last year. | business
+Market | Place where things are bought and sold | We buy fresh vegetables at the local market. | business
+Office | Place where business work is done | My office is on the third floor of the building. | business
+Manager | Person who controls a business or team | The manager held a meeting with all employees. | business
+Employee | Person who works for a company | Every employee received a bonus this Christmas. | business
+Meeting | Gathering of people to discuss business | We have a team meeting every Monday morning. | business
+Contract | Legal agreement between people or companies | Read the contract carefully before signing it. | business
+Investment | Money put into something to make profit | Real estate can be a good investment. | business
+Budget | Plan for spending money | Make a monthly budget to control your expenses. | business
+Success | Achievement of desired goals | Hard work and dedication lead to success. | business
+Story | Description of events, real or imaginary | Grandma told us an interesting story about her childhood. | literature
+Book | Set of pages with writing or pictures | I borrowed a book from the library yesterday. | literature
+Author | Person who writes books or stories | The author signed copies of her new book. | literature
+Character | Person in a story or play | Harry Potter is the main character in the series. | literature
+Hero | Main good character in a story | The hero saved the village from danger. | literature
+Adventure | Exciting and dangerous experience | The book describes an adventure in the jungle. | literature
+Mystery | Something that is difficult to understand | The detective solved the mystery of the missing jewels. | literature
+Fiction | Stories that are made up, not real | I enjoy reading fiction more than factual books. | literature
+Poetry | Writing that expresses feelings in verse | She writes beautiful poetry about nature. | literature
+Novel | Long story book | This novel took me two weeks to finish reading. | literature
+Drama | Play performed in theater | The school is performing a drama next month. | literature
+Comedy | Funny play or story | We watched a comedy that made everyone laugh. | literature
+Poem | Piece of writing in verse | She recited a poem about friendship. | literature
+Reading | Activity of looking at and understanding words | Reading books improves your vocabulary. | literature
+Writing | Activity of creating text | Good writing takes practice and patience. | literature
+Language | System of communication using words | English is spoken as a second language worldwide. | literature
+Word | Single unit of language | Learn a new word every day to improve your English. | literature
+Sentence | Group of words expressing a complete thought | Write a sentence using your new vocabulary word. | literature
+Page | One side of a sheet in a book | Turn to page 50 to continue the story. | literature
+Chapter | Section of a book | Each chapter in this book tells a different story. | literature
+Travel | Go from one place to another | Many people travel during summer vacation. | travel
+Trip | Journey to a place and back | We're planning a trip to the mountains next weekend. | travel
+Journey | Act of traveling from one place to another | The journey by train was comfortable and scenic. | travel
+Vacation | Time spent away from work for rest | We had a wonderful vacation at the beach. | travel
+Hotel | Building where travelers can stay | The hotel room had a beautiful view of the ocean. | travel
+Airport | Place where airplanes take off and land | Arrive at the airport two hours before your flight. | travel
+Flight | Journey by airplane | Our flight to Paris was delayed by two hours. | travel
+Ticket | Paper showing you paid for travel | Keep your ticket safe until the end of your journey. | travel
+Suitcase | Container for clothes when traveling | Pack your suitcase the night before traveling. | travel
+Tourist | Person who visits places for pleasure | Many tourists visit this city every summer. | travel
+Guide | Person who shows tourists around | The tour guide explained the history of the castle. | travel
+Museum | Building displaying historical objects | The art museum has paintings from famous artists. | travel
+Beach | Sandy area beside the sea | Children love playing in the sand at the beach. | travel
+Mountain | Very high area of land | The view from the mountain top was breathtaking. | travel
+City | Large town with many people | New York is a busy city that never sleeps. | travel
+Country | Nation with its own government | France is a beautiful country to visit. | travel
+Culture | Way of life of a group of people | Learning about local culture makes travel more interesting. | travel
+Food | Things we eat | Try the local food when you visit new places. | travel
+Language | Way people communicate | Learning basic phrases in the local language is helpful. | travel
+Map | Drawing showing where places are | Use a map to find your way around the new city. | travel
+History | Study of past events | History helps us understand how the world changed. | history
+Past | Time before now | In the past, people traveled by horse and carriage. | history
+Ancient | Very old, from long ago | Ancient Egypt had powerful kings called pharaohs. | history
+War | Fighting between countries or groups | The war ended when both sides agreed to peace. | history
+Peace | Time when there is no fighting | After years of conflict, peace finally came to the region. | history
+King | Male ruler of a country | The king lived in a magnificent castle. | history
+Queen | Female ruler of a country | The queen was loved by all her people. | history
+Castle | Large strong building where rulers lived | The medieval castle still stands on the hill. | history
+Battle | Fight between armies | The famous battle took place near the river. | history
+Discovery | Finding something new | The discovery of America changed world history. | history
+Explorer | Person who travels to unknown places | The brave explorer sailed across dangerous seas. | history
+Culture | Way of life of a group of people | Ancient Greek culture influenced many other civilizations. | history
+Art | Creative works like paintings and sculptures | Renaissance art is displayed in museums worldwide. | history
+Religion | Belief in gods or spiritual ideas | Religion played an important role in ancient societies. | history
+Government | Group of people who rule a country | The government makes laws for all citizens to follow. | history
+Invention | Something created for the first time | The invention of the wheel changed transportation forever. | history
+Revolution | Big change in how things are done | The industrial revolution changed how people worked. | history
+Empire | Group of countries ruled by one power | The Roman Empire was one of the largest in history. | history
+Tradition | Custom passed from older to younger people | Family traditions connect us to our ancestors. | history
+Monument | Structure built to remember important events | The monument honors soldiers who died in the war. | history
+Geography | Study of Earth's surface and features | Geography class taught us about different countries. | geography
+Earth | The planet where we live | Earth is the third planet from the sun. | geography
+Continent | Very large area of land | Asia is the largest continent in the world. | geography
+Ocean | Very large area of salt water | The Atlantic Ocean separates Europe and America. | geography
+Country | Area with its own government | Canada is a country in North America. | geography
+City | Large town where many people live | London is the capital city of England. | geography
+River | Large stream of water | The Amazon River flows through South America. | geography
+Mountain | Very high area of land | Mount Everest is the highest mountain on Earth. | geography
+Desert | Very dry area with little water | The Sahara Desert covers much of North Africa. | geography
+Forest | Large area covered with trees | The rainforest is home to many animal species. | geography
+Island | Piece of land surrounded by water | Japan is an island nation in the Pacific Ocean. | geography
+Lake | Large area of water surrounded by land | We went fishing at the beautiful mountain lake. | geography
+Climate | Usual weather in a place | The tropical climate is hot and humid year-round. | geography
+Population | Number of people living in a place | The city's population has grown rapidly in recent years. | geography
+Capital | Most important city in a country | Paris is the capital of France. | geography
+Border | Line separating two countries | Show your passport when crossing the border. | geography
+Coast | Land next to the sea | The west coast has beautiful beaches and cliffs. | geography
+Valley | Low area between hills or mountains | The green valley was perfect for farming. | geography
+North | Direction toward the top of maps | Canada is north of the United States. | geography
+South | Direction toward the bottom of maps | We drove south for our winter vacation. | geography
+Health | Being free from illness | Good health is more important than wealth. | health
+Doctor | Person who treats sick people | Visit the doctor if you don't feel well. | health
+Medicine | Treatment for illness | Take your medicine with water after meals. | health
+Hospital | Place where sick people are treated | The new hospital has the latest medical equipment. | health
+Exercise | Physical activity to stay healthy | Regular exercise helps keep your body strong. | health
+Diet | Food and drink regularly consumed | A healthy diet includes lots of fruits and vegetables. | health
+Nutrition | Process of getting food needed for health | Good nutrition is essential for growing children. | health
+Fitness | Being physically healthy and strong | The gym helps people improve their fitness level. | health
+Sleep | Natural rest when eyes are closed | Adults need about eight hours of sleep each night. | health
+Stress | Feeling worried or pressured | Too much stress can harm your physical health. | health
+Vitamins | Substances needed for good health | Fruits contain vitamins that boost your immune system. | health
+Illness | Disease or period of being sick | Wash your hands regularly to prevent illness. | health
+Recovery | Process of getting better after illness | Rest and proper care speed up recovery time. | health
+Prevention | Stopping something bad from happening | Prevention is better than cure for most diseases. | health
+Treatment | Medical care for illness or injury | Early treatment can prevent serious complications. | health
+Symptoms | Signs that show someone is sick | Fever and headache are common cold symptoms. | health
+Checkup | Medical examination to check health | Get a regular checkup to monitor your health. | health
+Hygiene | Practices to maintain health and cleanliness | Good personal hygiene prevents many infections. | health
+Mental | Related to the mind and emotions | Mental health is just as important as physical health. | health
+Wellness | State of being healthy and happy | The wellness program focuses on total health improvement. | health
