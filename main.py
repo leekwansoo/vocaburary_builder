@@ -4,6 +4,8 @@ Contains reusable functions that can be used across different apps
 """
 
 import pyttsx3
+from gtts import gTTS
+import io
 import tempfile
 import os
 import json
@@ -39,7 +41,7 @@ def load_word_pools(level=1):
 
 def create_audio_file(text, filename, is_phrase=False, speed="normal"):
     """
-    Create audio file for text-to-speech with American English voice
+    Create audio file for text-to-speech with American English voice (cloud-compatible)
     
     Args:
         text (str): Text to convert to speech
@@ -50,6 +52,7 @@ def create_audio_file(text, filename, is_phrase=False, speed="normal"):
     Returns:
         str or None: Path to the created audio file, or None if failed
     """
+    # Try pyttsx3 first (for local development)
     try:
         engine = pyttsx3.init()
         
@@ -98,9 +101,28 @@ def create_audio_file(text, filename, is_phrase=False, speed="normal"):
         engine.save_to_file(text, temp_file)
         engine.runAndWait()
         return temp_file
+        
     except Exception as e:
-        print(f"Error creating audio file: {e}")
-        return None
+        print(f"pyttsx3 failed ({e}), trying gTTS for cloud compatibility...")
+        
+        # Fall back to gTTS (for cloud deployment)
+        try:
+            # Adjust speed for gTTS (it only has slow/normal)
+            use_slow_speech = speed in ["0.9", "0.8"] or is_phrase
+            
+            # Create TTS object
+            tts = gTTS(text=text, lang='en', slow=use_slow_speech)
+            
+            # Create temporary file path (MP3 format for gTTS)
+            temp_file = os.path.join(tempfile.gettempdir(), f"{filename}.mp3")
+            tts.save(temp_file)
+            
+            print(f"Created audio file using gTTS: {temp_file}")
+            return temp_file
+            
+        except Exception as e2:
+            print(f"All TTS methods failed: pyttsx3({e}), gTTS({e2})")
+            return None
 
 
 def load_vocabulary_from_file(file_path):

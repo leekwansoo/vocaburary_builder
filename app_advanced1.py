@@ -597,7 +597,9 @@ if select == "📖 Study Mode":
                             audio_file = create_audio_file(entry['word'], f"word_{entry['word']}", is_phrase=False, speed=selected_speed)
                             if audio_file and os.path.exists(audio_file):
                                 with open(audio_file, 'rb') as audio:
-                                    st.audio(audio.read(), format='audio/wav')
+                                    # Detect audio format based on file extension
+                                    audio_format = 'audio/mp3' if audio_file.endswith('.mp3') else 'audio/wav'
+                                    st.audio(audio.read(), format=audio_format)
                                 cleanup_audio_file(audio_file)
                             else:
                                 st.error("Audio generation failed")
@@ -606,7 +608,9 @@ if select == "📖 Study Mode":
                             audio_file = create_audio_file(entry['phrase'], f"phrase_{entry['word']}", is_phrase=True, speed=selected_speed)
                             if audio_file and os.path.exists(audio_file):
                                 with open(audio_file, 'rb') as audio:
-                                    st.audio(audio.read(), format='audio/wav')
+                                    # Detect audio format based on file extension
+                                    audio_format = 'audio/mp3' if audio_file.endswith('.mp3') else 'audio/wav'
+                                    st.audio(audio.read(), format=audio_format)
                                 cleanup_audio_file(audio_file)
                             else:
                                 st.error("Audio generation failed")
