@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Important",
+    "meaning": "Having great significance or value",
+    "phrase": "It's important to study every day for better results.",
+    "category": "general",
+    "learned_date": "2025-10-22T10:11:59.356550"
+  },
+  {
+    "word": "Animal",
+    "meaning": "A living creature that can move and eat",
+    "phrase": "The zoo has many different animals from around the world.",
+    "category": "science",
+    "learned_date": "2025-10-22T10:19:11.010974"
+  },
+  {
+    "word": "Plant",
+    "meaning": "A living thing that grows in soil",
+    "phrase": "Water the plant every morning to keep it healthy.",
+    "category": "science",
+    "learned_date": "2025-10-22T10:19:15.592030"
+  },
+  {
+    "word": "Water",
+    "meaning": "Clear liquid that falls as rain",
+    "phrase": "Drink plenty of water to stay healthy.",
+    "category": "science",
+    "learned_date": "2025-10-22T10:19:21.021312"
+  },
+  {
+    "word": "Energy",
+    "meaning": "Power used to make things work",
+    "phrase": "Solar panels collect energy from the sun.",
+    "category": "science",
+    "learned_date": "2025-10-22T10:19:22.587121"
+  },
+  {
+    "word": "Nature",
+    "meaning": "The physical world including plants and animals",
+    "phrase": "Spending time in nature helps reduce stress.",
+    "category": "science",
+    "learned_date": "2025-10-22T10:19:26.475813"
+  },
+  {
+    "word": "Molecule",
+    "meaning": "Group of atoms bonded together",
+    "phrase": "Water molecules consist of hydrogen and oxygen atoms.",
+    "category": "science",
+    "learned_date": "2025-10-22T10:21:12.383511"
+  },
+  {
+    "word": "Evolution",
+    "meaning": "Process of gradual change over time",
+    "phrase": "Darwin's theory explains the evolution of species.",
+    "category": "science",
+    "learned_date": "2025-10-22T10:21:16.620919"
+  }
+]
