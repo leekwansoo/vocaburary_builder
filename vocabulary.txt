@@ -1,159 +1,160 @@
-Ubiquitous | Present everywhere at the same time | Smartphones have become ubiquitous in modern society. | general
-Quintessential | Representing most perfect example of quality | Her performance was the quintessential display of classical ballet. | general
-Perspicacious | Having keen insight and understanding | The perspicacious detective solved the case quickly. | general
-Serendipitous | Occurring by chance in happy way | Their serendipitous meeting led to lifelong friendship. | general
-Ineffable | Too great to be expressed in words | The beauty of the sunset was ineffable. | general
-Juxtaposition | Fact of two things being close together | The juxtaposition of ancient and modern architecture was striking. | general
-Paradoxical | Seemingly contradictory but possibly true | The paradoxical nature of quantum physics baffles scientists. | general
-Ephemeral | Lasting for very short time | The ephemeral beauty of cherry blossoms attracts millions. | general
-Dichotomy | Division into two contrasting parts | The dichotomy between rich and poor continues to grow. | general
-Esoteric | Intended for small group with specialized knowledge | The professor's esoteric theories challenged conventional thinking. | general
-Palpable | Able to be touched or felt | The tension in the room was palpable. | general
-Intrinsic | Belonging naturally to something | Curiosity is intrinsic to human nature. | general
-Vicarious | Experienced through someone else | She lived vicariously through her daughter's achievements. | general
-Discernible | Able to be seen or understood | A discernible pattern emerged from the data. | general
-Incongruous | Not in harmony or out of place | His formal attire seemed incongruous at the beach party. | general
-Propensity | Natural tendency to behave in particular way | Children have a propensity for asking endless questions. | general
-Permeate | Spread throughout something | The aroma of coffee began to permeate the entire house. | general
-Amalgamation | Combination of different elements | The city is an amalgamation of various cultures. | general
-Cogent | Clear, logical, and convincing | She presented a cogent argument for policy reform. | general
-Tenuous | Very weak or slight | The connection between the two events was tenuous at best. | general
-Mitochondria | Organelles that produce energy in cells | Mitochondria are often called the powerhouses of cells. | science
-Quantum | Relating to smallest discrete amount of energy | Quantum mechanics revolutionized our understanding of matter. | science
-Symbiosis | Mutually beneficial relationship between organisms | The symbiosis between clownfish and anemones benefits both species. | science
-Crystallography | Study of crystal structure | X-ray crystallography revealed the structure of DNA. | science
-Thermodynamics | Study of heat and energy transfer | The laws of thermodynamics govern all energy transformations. | science
-Paradigm | Typical example or pattern | Darwin's theory created a new paradigm in biology. | science
-Methodology | System of methods in particular area | Scientific methodology ensures reliable and valid results. | science
-Hypothesis | Proposed explanation based on evidence | The hypothesis must be testable through experimentation. | science
-Empirical | Based on observation or experience | Empirical evidence supports the theory of evolution. | science
-Theoretical | Based on theory rather than practice | Theoretical physics explores the fundamental laws of nature. | science
-Extrapolation | Extension of method to unknown situation | Climate extrapolation predicts future temperature changes. | science
-Correlation | Mutual relationship between variables | Strong correlation exists between exercise and longevity. | science
-Exponential | Becoming progressively more rapid | Population growth follows an exponential pattern. | science
-Isotope | Variant of element with different neutron number | Carbon isotopes are used in radiocarbon dating. | science
-Synthesis | Combination of components to form whole | Protein synthesis occurs in cellular ribosomes. | science
-Viscosity | Measure of fluid's resistance to flow | Honey has higher viscosity than water at room temperature. | science
-Electromagnetic | Relating to electric and magnetic fields | Electromagnetic radiation includes visible light and radio waves. | science
-Biodegradable | Capable of being decomposed by bacteria | Biodegradable materials reduce environmental pollution. | science
-Metamorphosis | Transformation from one form to another | Butterfly metamorphosis involves complete structural change. | science
-Conglomerate | Large corporation with diverse subsidiaries | The media conglomerate owns television, film, and publishing companies. | business
-Monopoly | Exclusive control over commodity or service | Government regulations prevent companies from forming monopolies. | business
-Oligopoly | Market dominated by small number of sellers | The telecommunications industry operates as an oligopoly. | business
-Syndicate | Group of individuals or firms combined | The investment syndicate pooled resources for major acquisition. | business
-Derivative | Financial security based on underlying asset | Derivatives can be used to hedge against market risks. | business
-Liquidation | Process of closing business and selling assets | Company liquidation provided partial repayment to creditors. | business
-Amortization | Gradual reduction of debt through payments | Mortgage amortization schedules show principal and interest breakdown. | business
-Arbitrage | Simultaneous buying and selling for profit | Currency arbitrage exploits price differences between markets. | business
-Proprietary | Belonging exclusively to particular owner | The company's proprietary technology gives competitive advantage. | business
-Fiduciary | Held in trust for another party | Financial advisors have fiduciary responsibility to clients. | business
-Venture | Risky business undertaking | Venture capital firms invest in high-growth startups. | business
-Infrastructure | Basic physical and organizational structures | Digital infrastructure supports modern business operations. | business
-Leverage | Use of borrowed capital for investment | Financial leverage can amplify both gains and losses. | business
-Portfolio | Collection of investments held by person | Diversified portfolio reduces overall investment risk. | business
-Volatility | Degree of variation in trading prices | Market volatility increased during the economic uncertainty. | business
-Commodities | Raw materials or primary agricultural products | Commodities trading includes oil, gold, and agricultural products. | business
-Equity | Ownership interest in company | Equity financing involves selling ownership stakes to investors. | business
-Depreciation | Reduction in value over time | Equipment depreciation is calculated for tax purposes. | business
-Intellectual | Relating to creations of the mind | Intellectual property includes patents, copyrights, and trademarks. | business
-Recession | Period of temporary economic decline | The recession led to widespread unemployment and business closures. | business
-Verisimilitude | Appearance of being true or real | The novel's verisimilitude made fictional events seem authentic. | literature
-Anachronism | Thing belonging to different time period | The wristwatch in the medieval painting was obvious anachronism. | literature
-Euphemism | Mild term substituted for harsh one | The euphemism softened the impact of the difficult news. | literature
-Catharsis | Emotional release through art | Greek tragedy aimed to provide catharsis for the audience. | literature
-Juxtaposition | Placing contrasting elements side by side | The juxtaposition of wealth and poverty created powerful imagery. | literature
-Bildungsroman | Novel about character's psychological development | Many classic novels follow the bildungsroman structure. | literature
-Onomatopoeia | Words that imitate sounds they represent | Comic books use onomatopoeia like 'bang' and 'crash'. | literature
-Oxymoron | Combination of contradictory terms | The phrase 'deafening silence' is a classic oxymoron. | literature
-Alliteration | Repetition of same letter sounds | Peter Piper picked' demonstrates alliteration effectively. | literature
-Hyperbole | Deliberate and obvious exaggeration | The hyperbole emphasized the character's extreme emotions. | literature
-Personification | Giving human characteristics to non-human things | The wind whispered' uses personification to create atmosphere. | literature
-Foreshadowing | Hint about future events in story | The author's foreshadowing prepared readers for the tragic ending. | literature
-Denouement | Final resolution of plot's complications | The denouement revealed the murderer's true identity. | literature
-Archetype | Original model from which copies are made | The wise mentor is a common archetype in literature. | literature
-Soliloquy | Speech expressing character's thoughts | Hamlet's soliloquy reveals his internal moral struggle. | literature
-Epistolary | Written in form of letters | The epistolary novel consists entirely of fictional correspondence. | literature
-Pastiche | Work imitating style of another | The pastiche cleverly mimicked Victorian writing style. | literature
-Polysemy | Coexistence of multiple meanings | Polysemy enriches literary language with layers of meaning. | literature
-Intertextuality | Relationship between different texts | Intertextuality creates connections across literary works. | literature
-Hermeneutics | Theory and methodology of text interpretation | Literary hermeneutics examines how meaning is constructed. | literature
-Peripatetic | Traveling from place to place | The peripatetic lifestyle suited the international consultant perfectly. | travel
-Wanderlust | Strong desire to travel | Wanderlust motivated her to visit all seven continents. | travel
-Sojourner | Person who resides temporarily | The sojourner spent six months studying local customs. | travel
-Cosmopolitan | Familiar with many different countries | Her cosmopolitan outlook reflected extensive travel experience. | travel
-Diaspora | Dispersion of people from homeland | The Irish diaspora spread across the globe. | travel
-Itinerant | Traveling from place to place | The itinerant musician performed in different cities nightly. | travel
-Expatriate | Person living outside native country | The expatriate community organized cultural events regularly. | travel
-Nomadic | Living by moving from place to place | The nomadic tribe followed seasonal migration patterns. | travel
-Xenophobia | Fear or hatred of foreigners | Education helps combat xenophobia and cultural misunderstanding. | travel
-Cartography | Science of drawing maps | Digital cartography revolutionized modern navigation systems. | travel
-Topography | Arrangement of natural features | The mountainous topography created challenging hiking conditions. | travel
-Circumnavigation | Navigation completely around something | Magellan's expedition attempted the first circumnavigation of Earth. | travel
-Reconnaissance | Military observation of region | Aerial reconnaissance mapped the uncharted territory. | travel
-Pilgrimage | Journey to sacred place | The pilgrimage attracted devotees from around the world. | travel
-Odyssey | Long adventurous journey | Their cross-country odyssey lasted three months. | travel
-Excursion | Short journey for pleasure | The botanical excursion revealed rare plant species. | travel
-Expedition | Journey undertaken for specific purpose | The scientific expedition studied Antarctic wildlife. | travel
-Traverse | Travel across or through | The experienced climbers planned to traverse the mountain range. | travel
-Peregrination | Journey on foot through foreign countries | Medieval peregrination often involved religious pilgrimage. | travel
-Reconnaissance | Preliminary survey of area | Archaeological reconnaissance identified potential excavation sites. | travel
-Historiography | Study of historical writing | Historiography examines how historical accounts are constructed. | history
-Anachronism | Thing belonging to different time period | The medieval knight's sunglasses were obvious anachronism. | history
-Hegemony | Leadership or dominance over others | Roman hegemony extended across the Mediterranean world. | history
-Imperialism | Policy of extending country's power | European imperialism shaped global political boundaries. | history
-Totalitarianism | System requiring complete subservience to state | Totalitarianism characterized many 20th-century dictatorships. | history
-Feudalism | Medieval system based on land tenure | Feudalism dominated European social organization for centuries. | history
-Mercantilism | Economic theory emphasizing exports over imports | Mercantilism influenced colonial economic policies. | history
-Absolutism | Political system with unlimited central power | Louis XIV epitomized absolutism in 17th-century France. | history
-Reformation | 16th-century movement reforming Christian church | The Protestant Reformation divided European Christianity permanently. | history
-Renaissance | Revival of art and literature | The Renaissance marked transition from medieval to modern. | history
-Enlightenment | 18th-century intellectual movement | Enlightenment ideals influenced democratic revolutions worldwide. | history
-Industrialization | Development of industries in country | Industrialization transformed agricultural societies into urban ones. | history
-Nationalism | Identification with one's nation | 19th-century nationalism reshaped European political boundaries. | history
-Colonialism | Practice of acquiring political control | Colonialism had lasting effects on global development patterns. | history
-Decolonization | Process of territories becoming independent | Decolonization accelerated after World War II. | history
-Revisionism | Reinterpretation of accepted historical views | Historical revisionism challenges traditional narratives. | history
-Periodization | Division of history into distinct periods | Historical periodization helps organize complex chronologies. | history
-Chronology | Arrangement of events in time order | Accurate chronology is essential for historical analysis. | history
-Archaeology | Study of human history through excavation | Archaeology provides evidence for prehistoric civilizations. | history
-Anthropology | Study of human societies and cultures | Historical anthropology examines cultural practices over time. | history
-Topographical | Relating to arrangement of physical features | Topographical maps show elevation changes and landforms. | geography
-Geomorphology | Study of landforms and their formation | Geomorphology explains how mountains and valleys develop. | geography
-Hydrology | Study of water movement and distribution | Hydrology helps predict flooding and drought patterns. | geography
-Meteorology | Study of atmospheric conditions | Meteorology enables accurate weather forecasting. | geography
-Seismology | Study of earthquakes and earth vibrations | Seismology helps assess earthquake risks in different regions. | geography
-Cartographic | Relating to making maps | Cartographic accuracy improved with satellite technology. | geography
-Demographic | Relating to population characteristics | Demographic changes affect economic and social planning. | geography
-Physiographic | Relating to physical geography | Physiographic regions share similar landform characteristics. | geography
-Biogeography | Study of species distribution | Biogeography explains why different animals live in different places. | geography
-Climatology | Study of climate patterns | Climatology reveals long-term weather trends and changes. | geography
-Pedology | Study of soils | Pedology helps determine agricultural land suitability. | geography
-Glaciology | Study of glaciers and ice sheets | Glaciology monitors ice sheet changes and sea level impacts. | geography
-Oceanography | Study of oceans | Oceanography examines marine ecosystems and currents. | geography
-Speleology | Study of caves | Speleology reveals underground geological formations. | geography
-Limnology | Study of inland waters | Limnology focuses on lakes, rivers, and wetland ecosystems. | geography
-Paleogeography | Study of ancient geographic features | Paleogeography reconstructs Earth's past continental positions. | geography
-Geopolitics | Politics influenced by geography | Geopolitics examines how location affects international relations. | geography
-Geodesy | Science of measuring Earth's shape | Geodesy provides precise measurements for mapping and navigation. | geography
-Geochronology | Dating of rock formations | Geochronology determines the age of geological events. | geography
-Stratigraphy | Study of rock layers | Stratigraphy reveals Earth's geological history through sediments. | geography
-Epidemiology | Study of disease patterns in populations | Epidemiology tracks disease outbreaks and identifies risk factors. | health
-Pathophysiology | Study of functional changes in disease | Understanding pathophysiology helps develop targeted treatments. | health
-Pharmacokinetics | Study of drug movement in body | Pharmacokinetics determines optimal dosing schedules. | health
-Etiology | Study of disease causation | Medical research investigates the etiology of cancer. | health
-Nosocomial | Acquired in hospital | Nosocomial infections require strict prevention protocols. | health
-Iatrogenic | Caused by medical treatment | Iatrogenic complications result from therapeutic interventions. | health
-Prophylactic | Intended to prevent disease | Prophylactic measures reduce infection transmission rates. | health
-Palliative | Relieving symptoms without curing | Palliative care improves quality of life for terminal patients. | health
-Therapeutic | Relating to healing or treatment | Therapeutic interventions must be evidence-based. | health
-Homeostasis | Stable equilibrium in body systems | Homeostasis maintains optimal internal conditions. | health
-Immunocompromised | Having weakened immune system | Immunocompromised patients require special infection precautions. | health
-Psychosomatic | Physical symptoms caused by mental factors | Psychosomatic disorders require integrated treatment approaches. | health
-Congenital | Present from birth | Congenital heart defects often require surgical correction. | health
-Degenerative | Characterized by progressive deterioration | Degenerative diseases worsen over time without treatment. | health
-Idiopathic | Of unknown cause | Idiopathic conditions challenge diagnostic capabilities. | health
-Syndrome | Group of symptoms occurring together | The syndrome encompasses multiple organ system dysfunction. | health
-Morbidity | State of being diseased | Obesity increases morbidity rates across multiple conditions. | health
-Mortality | Death rate in population | Improved treatments reduced mortality from heart disease. | health
-Remission | Temporary recovery from illness | Cancer remission brings hope to patients and families. | health
-Exacerbation | Worsening of disease symptoms | Stress can cause exacerbation of chronic conditions. | health
+Magnificent | Extremely beautiful or impressive | The magnificent cathedral dominated the city skyline. | general
+Extraordinary | Very unusual or remarkable | Her extraordinary talent impressed everyone at the audition. | general
+Substantial | Large in amount, size, or importance | The company made substantial investments in new technology. | general
+Versatile | Able to adapt to many different functions | This versatile tool can be used for multiple purposes. | general
+Sophisticated | Complex or refined in design | The sophisticated software requires advanced training. | general
+Comprehensive | Complete and including everything necessary | The comprehensive report covered all aspects of the problem. | general
+Innovative | Introducing new ideas or methods | The innovative design won several international awards. | general
+Fundamental | Basic and essential | Understanding grammar is fundamental to language learning. | general
+Prominent | Important and well-known | She became a prominent figure in environmental activism. | general
+Meticulous | Showing great attention to detail | The scientist was meticulous in recording her observations. | general
+Resilient | Able to recover quickly from difficulties | Children are remarkably resilient after traumatic experiences. | general
+Eloquent | Fluent and persuasive in speaking | The eloquent speaker moved the audience to tears. | general
+Pragmatic | Dealing with things realistically | A pragmatic approach considers practical limitations. | general
+Conscientious | Careful and dutiful | Conscientious students always complete their assignments on time. | general
+Proactive | Taking action before problems occur | Being proactive helps prevent many workplace issues. | general
+Diligent | Hardworking and careful | Diligent practice leads to mastery of any skill. | general
+Analytical | Using logical reasoning | Her analytical mind helped solve complex problems. | general
+Intuitive | Using instinct rather than reasoning | The intuitive interface makes the software easy to use. | general
+Empathetic | Understanding others' feelings | Empathetic leaders create positive work environments. | general
+Charismatic | Having compelling charm that inspires others | The charismatic leader motivated the entire team. | general
+Hypothesis | Proposed explanation for a phenomenon | Scientists test their hypothesis through controlled experiments. | science
+Ecosystem | Community of living and non-living things | The forest ecosystem supports hundreds of species. | science
+Molecule | Group of atoms bonded together | Water molecules consist of hydrogen and oxygen atoms. | science
+Evolution | Process of gradual change over time | Darwin's theory explains the evolution of species. | science
+Biodiversity | Variety of life in ecosystems | Tropical rainforests have the highest biodiversity on Earth. | science
+Metabolism | Chemical processes in living organisms | Exercise increases your metabolism and burns calories. | science
+Photosynthesis | Process plants use to make food from sunlight | Photosynthesis converts carbon dioxide into oxygen. | science
+Genetics | Study of heredity and inherited traits | Advances in genetics help treat inherited diseases. | science
+Astronomy | Study of celestial objects and space | Astronomy reveals the mysteries of distant galaxies. | science
+Chemistry | Study of matter and its properties | Chemistry explains how different substances interact. | science
+Physics | Study of matter, energy, and motion | Physics principles explain how airplanes can fly. | science
+Laboratory | Room equipped for scientific experiments | The laboratory has advanced equipment for research. | science
+Microscope | Instrument for viewing very small objects | The microscope revealed bacteria invisible to naked eyes. | science
+Specimen | Sample used for scientific study | The museum displays specimens from around the world. | science
+Pharmaceutical | Related to medicinal drugs | The pharmaceutical industry develops life-saving medications. | science
+Sustainable | Able to continue without depleting resources | Sustainable farming protects soil for future generations. | science
+Renewable | Able to be replenished naturally | Solar power is a renewable energy source. | science
+Conservation | Protection of natural resources | Wildlife conservation efforts saved the species from extinction. | science
+Contamination | Pollution or impurity in environment | Water contamination poses serious health risks. | science
+Innovation | Introduction of new methods or ideas | Scientific innovation drives technological progress. | science
+Entrepreneur | Person who starts and runs businesses | The young entrepreneur launched three successful startups. | business
+Innovation | Introduction of new ideas or products | Innovation is crucial for companies to stay competitive. | business
+Strategic | Relating to long-term planning | Strategic thinking helps businesses prepare for future challenges. | business
+Competitive | Having strong desire to win | The competitive market forces companies to improve constantly. | business
+Sustainable | Able to continue long-term | Sustainable business practices benefit both profit and environment. | business
+Collaboration | Working together toward common goals | Collaboration between departments improved overall efficiency. | business
+Negotiation | Discussion to reach agreement | Successful negotiation requires preparation and flexibility. | business
+Networking | Building professional relationships | Networking events help professionals expand their contacts. | business
+Leadership | Ability to guide and inspire others | Effective leadership motivates teams to achieve excellence. | business
+Productivity | Efficiency in producing results | New software significantly increased team productivity. | business
+Profitability | Ability to generate financial gain | Cost reduction strategies improved the company's profitability. | business
+Diversification | Expanding into different areas | Portfolio diversification reduces investment risks. | business
+Optimization | Making something as effective as possible | Website optimization improved user experience significantly. | business
+Acquisition | Purchasing another company | The acquisition expanded their market presence internationally. | business
+Partnership | Cooperative relationship between businesses | The strategic partnership benefited both companies equally. | business
+Stakeholder | Person with interest in company's success | All stakeholders were consulted before major decisions. | business
+Franchise | License to operate business using another's model | The restaurant franchise expanded to fifty locations. | business
+Corporation | Large company legally recognized as entity | The multinational corporation employs thousands worldwide. | business
+Revenue | Income generated from business operations | Quarterly revenue exceeded all previous projections. | business
+Subsidiary | Company controlled by another company | The subsidiary operates independently in Asian markets. | business
+Metaphor | Comparison without using 'like' or 'as' | Shakespeare used metaphor to compare life to a stage. | literature
+Symbolism | Use of symbols to represent ideas | The dove is a powerful symbolism for peace. | literature
+Protagonist | Main character in a story | The protagonist overcame many obstacles to achieve success. | literature
+Antagonist | Character who opposes the protagonist | The antagonist created conflict throughout the entire novel. | literature
+Narrative | Spoken or written account of events | The narrative technique made the story compelling. | literature
+Allegory | Story with hidden meaning | Animal Farm is an allegory about political corruption. | literature
+Irony | Expression of meaning through opposite words | The irony of the situation wasn't lost on observers. | literature
+Eloquence | Fluent and persuasive speech or writing | The speaker's eloquence captivated the entire audience. | literature
+Renaissance | Period of renewed interest in arts | Renaissance literature explored humanistic themes. | literature
+Classical | Representing highest standards of ancient art | Classical literature continues to influence modern writers. | literature
+Contemporary | Belonging to the present time | Contemporary authors address current social issues. | literature
+Epic | Long narrative poem about heroic deeds | Homer's epic poems influenced Western literature. | literature
+Tragedy | Serious play with unhappy ending | Shakespeare's tragedies explore human nature's darker aspects. | literature
+Satire | Use of humor to criticize | The satire cleverly exposed political hypocrisy. | literature
+Biography | Account of someone's life | The biography revealed previously unknown details. | literature
+Autobiography | Account of one's own life | Her autobiography became an international bestseller. | literature
+Anthology | Collection of literary works | The poetry anthology featured works from emerging poets. | literature
+Manuscript | Author's original written work | The ancient manuscript was discovered in monastery. | literature
+Genre | Category of literary composition | Science fiction is her favorite literary genre. | literature
+Critique | Detailed analysis and assessment | The literary critique examined themes and symbolism. | literature
+Expedition | Journey for specific purpose | The Arctic expedition lasted six months. | travel
+Itinerary | Planned route or journey | Our itinerary includes visits to five different countries. | travel
+Excursion | Short journey for pleasure | The day excursion to the winery was delightful. | travel
+Pilgrimage | Journey to sacred place | Thousands make the pilgrimage to the holy site annually. | travel
+Adventure | Exciting and potentially dangerous experience | Mountain climbing offers adventure and stunning views. | travel
+Destination | Place where journey ends | Paris remains the world's most popular tourist destination. | travel
+Accommodation | Place to stay during travel | Book your accommodation well in advance during peak season. | travel
+Transportation | Means of getting from place to place | Public transportation in the city is efficient and affordable. | travel
+Immigration | Process of entering foreign country | Immigration procedures can take several hours at busy airports. | travel
+Documentation | Official papers required for travel | Ensure all travel documentation is current before departure. | travel
+Reservation | Arrangement to secure services | Hotel reservation confirmations should be printed before travel. | travel
+Hospitality | Friendly and generous treatment of guests | The local hospitality made our visit truly memorable. | travel
+Cosmopolitan | Including people from many countries | New York is a cosmopolitan city with diverse cultures. | travel
+Indigenous | Native to particular region | Indigenous art reflects traditional cultural values. | travel
+Culinary | Related to cooking and food | The culinary tour introduced us to authentic local dishes. | travel
+Architecture | Design and construction of buildings | Gothic architecture dominates the old city center. | travel
+Heritage | Traditional customs passed down | UNESCO protects world heritage sites for future generations. | travel
+Souvenir | Thing kept as reminder of place | Local handicrafts make meaningful souvenirs. | travel
+Panoramic | Wide unobstructed view | The panoramic view from the tower was breathtaking. | travel
+Authentic | Genuine and original | Tourists seek authentic experiences in local communities. | travel
+Civilization | Advanced stage of human social development | Ancient Greek civilization influenced Western culture. | history
+Renaissance | Period of renewed interest in arts and learning | The Renaissance transformed European art and science. | history
+Revolution | Dramatic change in political or social conditions | The Industrial Revolution changed how people worked. | history
+Dynasty | Series rulers from same family | The Ming Dynasty ruled China for nearly 300 years. | history
+Democracy | Government by the people | Ancient Athens is considered birthplace of democracy. | history
+Monarchy | Government ruled by king or queen | The constitutional monarchy limits royal power. | history
+Republic | Government where power belongs to people | The Roman Republic preceded the Roman Empire. | history
+Constitution | Set of fundamental principles for governance | The constitution guarantees citizens' basic rights. | history
+Colonization | Establishing control over foreign territory | European colonization changed indigenous cultures worldwide. | history
+Independence | Freedom from outside control | The country celebrated fifty years of independence. | history
+Treaty | Formal agreement between nations | The peace treaty ended decades of conflict. | history
+Alliance | Union formed for mutual benefit | Military alliances shaped European politics for centuries. | history
+Archaeology | Study of human history through excavation | Archaeology reveals secrets of ancient civilizations. | history
+Artifact | Object made by human in past | The museum displays artifacts from various time periods. | history
+Legacy | Something left behind by predecessor | The leader's legacy includes significant social reforms. | history
+Persecution | Hostility and ill-treatment | Religious persecution forced many people to flee. | history
+Migration | Movement from one place to another | Economic migration shaped modern urban development. | history
+Feudalism | Medieval social system based on land ownership | Feudalism dominated European society for centuries. | history
+Reformation | Movement to reform religious practices | The Protestant Reformation divided European Christianity. | history
+Enlightenment | Age of reason and intellectual development | Enlightenment thinkers influenced modern democratic ideals. | history
+Topography | Physical features of land surface | The region's mountainous topography affects weather patterns. | geography
+Cartography | Science of making maps | Digital cartography has revolutionized map-making. | geography
+Latitude | Distance north or south of equator | Cities at the same latitude often have similar climates. | geography
+Longitude | Distance east or west of prime meridian | Greenwich, England marks zero degrees longitude. | geography
+Hemisphere | Half of Earth divided by equator | Australia is located in the Southern Hemisphere. | geography
+Archipelago | Group of islands | The Philippine archipelago consists of over 7,000 islands. | geography
+Peninsula | Land surrounded by water on three sides | The Italian peninsula extends into Mediterranean Sea. | geography
+Tributary | River flowing into larger river | The Missouri River is the longest tributary of Mississippi. | geography
+Watershed | Area draining into river system | The Amazon watershed covers 40% of South America. | geography
+Plateau | Flat elevated area of land | The Tibetan Plateau is known as 'Roof of World'. | geography
+Tectonic | Relating to Earth's structural plates | Tectonic plate movement causes earthquakes and volcanoes. | geography
+Erosion | Wearing away of soil and rock | Water erosion carved the magnificent Grand Canyon. | geography
+Sediment | Matter deposited by water or wind | River sediment creates fertile agricultural deltas. | geography
+Precipitation | Rain, snow, or other moisture falling | Annual precipitation determines regional vegetation types. | geography
+Urbanization | Growth of cities and towns | Rapid urbanization creates environmental challenges. | geography
+Migration | Movement of people or animals | Rural-to-urban migration characterizes developing countries. | geography
+Sustainability | Meeting needs without compromising future | Environmental sustainability requires global cooperation. | geography
+Biodiversity | Variety of life in ecosystems | Tropical regions have the highest biodiversity levels. | geography
+Deforestation | Clearing forests for other land use | Deforestation contributes to climate change globally. | geography
+Globalization | Worldwide integration of economies | Globalization connects distant places through trade. | geography
+Cardiovascular | Related to heart and blood vessels | Regular exercise improves cardiovascular health significantly. | health
+Immune | Protected against disease | A strong immune system fights off infections naturally. | health
+Metabolism | Chemical processes converting food to energy | Age and activity level affect metabolism rates. | health
+Chronic | Long-lasting or recurring medical condition | Diabetes is a chronic condition requiring daily management. | health
+Diagnosis | Identification of disease or condition | Early diagnosis improves treatment success rates. | health
+Therapy | Treatment to heal disorder | Physical therapy helped restore mobility after injury. | health
+Rehabilitation | Process of recovery after illness | Cardiac rehabilitation programs prevent future heart problems. | health
+Immunization | Process of making immune to disease | Childhood immunization prevents serious infectious diseases. | health
+Epidemic | Widespread occurrence of infectious disease | The flu epidemic affected thousands of people. | health
+Pharmaceutical | Related to medicinal drugs | Pharmaceutical research develops new treatments constantly. | health
+Holistic | Considering whole person in treatment | Holistic medicine addresses physical and emotional health. | health
+Wellness | Active pursuit of healthy lifestyle | Corporate wellness programs reduce employee healthcare costs. | health
+Preventive | Designed to prevent disease | Preventive care includes regular screenings and checkups. | health
+Therapeutic | Having healing properties | The therapeutic massage relieved chronic back pain. | health
+Pathology | Study of disease and its effects | Pathology reports help doctors determine treatment plans. | health
+Prognosis | Likely course of medical condition | The patient's prognosis improved with new treatment. | health
+Antibiotics | Medicines that fight bacterial infections | Overuse of antibiotics creates drug-resistant bacteria. | health
+Psychiatry | Branch of medicine dealing with mental health | Psychiatry combines medication and therapy for treatment. | health
+Nutrition | Process of obtaining food for health | Proper nutrition supports optimal physical development. | health
+Physiology | Study of body functions | Exercise physiology explains how muscles adapt to training. | health

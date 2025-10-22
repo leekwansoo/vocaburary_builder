@@ -227,6 +227,40 @@ def delete_word_from_file(word_to_delete, word_file):
     
     return True
 
+def load_vocabulary_with_expressions(level):
+    """Load vocabulary from JSON files with expressions included"""
+    import json
+    
+    if level == "learned":
+        return load_learned_words()
+    
+    # Map level to filename
+    level_files = {
+        1: "level1.json",
+        2: "level2.json", 
+        3: "level3.json"
+    }
+    
+    filename = level_files.get(level)
+    if not filename or not os.path.exists(filename):
+        return []
+    
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # Flatten all categories into a single list
+        all_words = []
+        for category, words in data.items():
+            for word_entry in words:
+                # Add category to each word entry
+                word_entry['category'] = category
+                all_words.append(word_entry)
+        
+        return all_words
+    except (json.JSONDecodeError, FileNotFoundError):
+        return []
+
 def generate_quiz_question(words, correct_word):
     """Generate a multiple choice quiz question"""
     options = [correct_word]
@@ -558,7 +592,8 @@ if select == "📖 Study Mode":
     )
     
     if selected_category:
-        all_words = load_vocabulary_from_file(word_file)
+        # Load vocabulary with expressions from JSON files
+        all_words = load_vocabulary_with_expressions(current_level)
         filtered_words = filter_words_by_category(all_words, selected_category)
         
         # Apply difficulty filter
@@ -574,20 +609,31 @@ if select == "📖 Study Mode":
                     col1, col2 = st.columns([4, 1])
                     
                     with col1:
-                        phonetic = get_phonetic(entry['word'])
                         difficulty = get_difficulty(entry['word'])
                         
-                        st.markdown(
-                            f"""
-                            <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; margin: 10px 0; background-color: #f9f9f9;">
-                                <h4 style="color: #4CAF50; margin-bottom: 5px; font-size: 2.7em;">📚 {entry['word']} {difficulty}</h4>
-                                <p style="color: #666; font-style: italic; margin-bottom: 10px; font-size: 2.25em;">{phonetic}</p>
-                                <p style="font-size: 2.54em;"><strong>Meaning:</strong> {entry['meaning']}</p>
-                                <p style="font-size: 2.54em;"><strong>Example Phrase:</strong> {entry['phrase']}</p>
-                            </div>
-                            """, 
-                            unsafe_allow_html=True
-                        )
+                        # Simple card with visual border using Streamlit components
+                        with st.container():
+                            # Add a simple border using markdown
+                            st.markdown("---")
+                            
+                            # Word title with emoji
+                            st.markdown(f"### 📚 {entry['word']} {difficulty}")
+                            
+                            # Meaning
+                            st.markdown(f"**Meaning:** {entry['meaning']}")
+                            
+                            # Expressions if available
+                            expressions = entry.get('expressions')
+                            if expressions:
+                                st.markdown("**Simple Expressions:**")
+                                for expr in expressions:
+                                    st.markdown(f"• {expr}")
+                            
+                            # Example phrase
+                            st.markdown(f"**Example Phrase:** {entry['phrase']}")
+                            
+                            # Bottom border
+                            st.markdown("---")
                     
                     with col2:
                         st.markdown("<br>", unsafe_allow_html=True)
@@ -671,8 +717,8 @@ elif select == "🎯 Quiz Mode":
     if 'current_question' not in st.session_state:
         st.session_state.current_question = None
     
-    # Load words for quiz using sidebar selections
-    all_words = load_vocabulary_from_file(word_file)
+    # Load words for quiz using sidebar selections with expressions
+    all_words = load_vocabulary_with_expressions(current_level)
     quiz_words = filter_words_by_category(all_words, selected_category)
     
     # Display current quiz settings
@@ -706,8 +752,7 @@ elif select == "🎯 Quiz Mode":
                 # Multiple choice options
                 option_labels = [opt['word'] for opt in question['options']]
             else:  # Word → Meaning
-                phonetic = get_phonetic(correct_word['word'])
-                st.markdown(f'<h3 style="font-size: 2.4em;">What is the meaning of: <strong>{correct_word["word"]}</strong> {phonetic}</h3>', unsafe_allow_html=True)
+                st.markdown(f'<h3 style="font-size: 2.4em;">What is the meaning of: <strong>{correct_word["word"]}</strong></h3>', unsafe_allow_html=True)
                 
                 # Multiple choice options
                 option_labels = [opt['meaning'] for opt in question['options']]
@@ -740,14 +785,35 @@ elif select == "🎯 Quiz Mode":
                     # Mark as answered
                     st.session_state.current_question['answered'] = True
                     
-                    # Show word details
-                    phonetic = get_phonetic(correct_word['word'])
+                    # Show word details with new structure
                     difficulty = get_difficulty(correct_word['word'])
-                    st.markdown(f'<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; margin: 15px 0; background-color: #f9f9f9;"><h4 style="color: #4CAF50; margin-bottom: 5px; font-size: 2.7em;">📚 {correct_word["word"]} {difficulty}</h4><p style="color: #666; font-style: italic; margin-bottom: 10px; font-size: 2.25em;">{phonetic}</p><p style="font-size: 2.54em;"><strong>Meaning:</strong> {correct_word["meaning"]}</p></div>', unsafe_allow_html=True)
                     
-                    # Show example card after answer is submitted
-                    if correct_word['phrase']:
-                        st.markdown(f'<div style="background-color: #fff3cd; padding: 15px; border-radius: 10px; border-left: 5px solid #856404; font-size: 2.54em; margin-top: 15px;"><strong>💡 Example:</strong> {correct_word["phrase"]}</div>', unsafe_allow_html=True)
+                    # Simple quiz result card
+                    st.success("Word Details:")
+                    
+                    with st.container():
+                        # Simple border for quiz result
+                        st.markdown("---")
+                        
+                        # Word title with emoji
+                        st.markdown(f"### 📚 {correct_word['word']} {difficulty}")
+                        
+                        # Meaning
+                        st.markdown(f"**Meaning:** {correct_word['meaning']}")
+                        
+                        # Expressions if available
+                        expressions = correct_word.get('expressions', [])
+                        if expressions:
+                            st.markdown("**Simple Expressions:**")
+                            for expr in expressions:
+                                st.markdown(f"• {expr}")
+                        
+                        # Example phrase
+                        if correct_word['phrase']:
+                            st.markdown(f"**💡 Example:** {correct_word['phrase']}")
+                        
+                        # Bottom border
+                        st.markdown("---")
     else:
         st.warning("Need at least 4 words in the selected category to run quiz mode. Please load sample vocabulary first.")
 
