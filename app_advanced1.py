@@ -531,13 +531,14 @@ with col1:
             else:
                 st.warning("❌ No learned words found. Complete some lessons first to build your learned vocabulary!")
     else:
-        if st.button(f"📚 Load Level {current_level} Vocabulary (160 words)", help=f"Load 20 words for each category at Level {current_level}"):
+        if st.button(f"📚 Load Level {current_level} Vocabulary", help=f"Load 20 words for each category at Level {current_level}"):
             word_pools = load_word_pools(current_level)
             if word_pools:
                 success = save_word_pools_to_file(word_pools, word_file)
                 if success:
-                    st.success(f"✅ Successfully loaded Level {current_level} vocabulary with 160 words across all categories!")
-                    st.info("Navigate to other sections to explore the features.")
+                    word_length = len(load_vocabulary_from_file(word_file))
+                    st.success(f"✅ Successfully loaded Level {current_level} vocabulary across all categories!")
+                    #st.info("Navigate to other sections to explore the features.")
                 else:
                     st.error("❌ Error loading sample vocabulary.")
             else:
